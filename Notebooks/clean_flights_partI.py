@@ -1,9 +1,9 @@
 import pandas as pd
 
-df = pd.read_excel("epstein_flights.xlsx")
+df = pd.read_excel("data\Epstein Flight Logs Master - FINAL FOR DW (2021).csv")
 
 df = df.dropna(subset=["passengers"])
 
 df = df[df["passengers"] != "JE"]
 
-df.to_excel("modified_excel_file.xlsx", index=False)
+df.to_excel("flights_cleaned.xlsx", index=False)
