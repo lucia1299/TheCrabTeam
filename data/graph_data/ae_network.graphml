@@ -1,0 +1,4629 @@
+<?xml version="1.0" encoding="UTF-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="r" attr.type="int" for="node" id="r"/>
+    <key attr.name="g" attr.type="int" for="node" id="g"/>
+    <key attr.name="b" attr.type="int" for="node" id="b"/>
+    <key attr.name="x" attr.type="float" for="node" id="x"/>
+    <key attr.name="y" attr.type="float" for="node" id="y"/>
+    <key attr.name="size" attr.type="float" for="node" id="size"/>
+    <key attr.name="name" attr.type="string" for="node" id="name"/>
+    <key attr.name="metadata" attr.type="string" for="node" id="metadata"/>
+    <key attr.name="source_name" attr.type="string" for="edge" id="source_name"/>
+    <key attr.name="target_name" attr.type="string" for="edge" id="target_name"/>
+    <key attr.name="label1" attr.type="string" for="edge" id="label1"/>
+    <key attr.name="label2" attr.type="string" for="edge" id="label2"/>
+    <graph edgedefault="undirected">
+        <node id="0">
+            <data key="name">Abe Biederman</data>
+            <data key="metadata">Lipper &amp; Co.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-427.28302</data>
+            <data key="y">314.15915</data>
+        </node>
+        <node id="1">
+            <data key="name">Alan (Ace) Greenberg</data>
+            <data key="metadata">Bear Stearns</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">281.90598</data>
+            <data key="y">-130.14952</data>
+        </node>
+        <node id="2">
+            <data key="name">Alice Bamford</data>
+            <data key="metadata">Daylesford House</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">352.9943</data>
+            <data key="y">-449.76996</data>
+        </node>
+        <node id="3">
+            <data key="name">Alice Larkin</data>
+            <data key="metadata">Betsy's</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-184.28639</data>
+            <data key="y">331.1708</data>
+        </node>
+        <node id="4">
+            <data key="name">Allan R. Tessler</data>
+            <data key="metadata">International Financial Group</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">295.46933</data>
+            <data key="y">-43.395924</data>
+        </node>
+        <node id="5">
+            <data key="name">Amanda Elingworth</data>
+            <data key="metadata">The Basement</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">43.80458</data>
+            <data key="y">-445.83072</data>
+        </node>
+        <node id="6">
+            <data key="name">Amanda Keidan</data>
+            <data key="metadata">Amanda Keidan Jewelry</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-442.99677</data>
+            <data key="y">-17.618397</data>
+        </node>
+        <node id="7">
+            <data key="name">Ambassador Jon M. Huntsman</data>
+            <data key="metadata">Huntsman Chemical</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-216.60329</data>
+            <data key="y">-80.37138</data>
+        </node>
+        <node id="8">
+            <data key="name">Andre Balazs</data>
+            <data key="metadata">The Mercer</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-100.83574</data>
+            <data key="y">330.18924</data>
+        </node>
+        <node id="9">
+            <data key="name">Andrea Brown</data>
+            <data key="metadata">Harvard Radcliffe Hillel</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-57.737442</data>
+            <data key="y">-310.5188</data>
+        </node>
+        <node id="10">
+            <data key="name">Andrew Farkas</data>
+            <data key="metadata">Island Capital</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">384.012</data>
+            <data key="y">408.36423</data>
+        </node>
+        <node id="11">
+            <data key="name">Andrew Jarecki</data>
+            <data key="metadata">hit the ground running films</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">277.83804</data>
+            <data key="y">218.65642</data>
+        </node>
+        <node id="12">
+            <data key="name">Andrew Solomon</data>
+            <data key="metadata">The New York Times</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-364.61942</data>
+            <data key="y">-161.21141</data>
+        </node>
+        <node id="13">
+            <data key="name">Andrew Tish</data>
+            <data key="metadata">Regency Hotel</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">462.9343</data>
+            <data key="y">265.07382</data>
+        </node>
+        <node id="14">
+            <data key="name">André Balazs</data>
+            <data key="metadata">The Mercer</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-342.12036</data>
+            <data key="y">281.39005</data>
+        </node>
+        <node id="15">
+            <data key="name">Andrés Pastrana Arango</data>
+            <data key="metadata">Former President of Colombia</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">67.94722</data>
+            <data key="y">-235.24461</data>
+        </node>
+        <node id="16">
+            <data key="name">Ann Stock</data>
+            <data key="metadata">The White House</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">198.99452</data>
+            <data key="y">-381.44708</data>
+        </node>
+        <node id="17">
+            <data key="name">Anne Tish</data>
+            <data key="metadata">Regency Hotel</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-296.75354</data>
+            <data key="y">486.88297</data>
+        </node>
+        <node id="18">
+            <data key="name">Anthony Barrett</data>
+            <data key="metadata">Ossa Properties</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">164.08174</data>
+            <data key="y">106.15874</data>
+        </node>
+        <node id="19">
+            <data key="name">Averell Mortimer</data>
+            <data key="metadata">Arden Asset Management, Inc.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">230.46693</data>
+            <data key="y">312.72714</data>
+        </node>
+        <node id="20">
+            <data key="name">Ayla Hussain</data>
+            <data key="metadata">Sundari</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-350.2794</data>
+            <data key="y">442.70383</data>
+        </node>
+        <node id="21">
+            <data key="name">Barbara Black</data>
+            <data key="metadata">Hollinger International</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-352.28683</data>
+            <data key="y">492.7267</data>
+        </node>
+        <node id="22">
+            <data key="name">Barry Hearn</data>
+            <data key="metadata">Matchroom</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-252.20537</data>
+            <data key="y">-166.08394</data>
+        </node>
+        <node id="23">
+            <data key="name">Barry Zelin</data>
+            <data key="metadata">Gruntal</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-18.77345</data>
+            <data key="y">127.598495</data>
+        </node>
+        <node id="24">
+            <data key="name">Bartle Bull</data>
+            <data key="metadata">Jones, Hirsch, Connors &amp; Bull</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">390.84146</data>
+            <data key="y">37.5211</data>
+        </node>
+        <node id="25">
+            <data key="name">Bea Hollond</data>
+            <data key="metadata">European Financial Products Ld</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">274.8552</data>
+            <data key="y">292.2095</data>
+        </node>
+        <node id="26">
+            <data key="name">Ben Elliot</data>
+            <data key="metadata">Quintessentially</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">158.62312</data>
+            <data key="y">61.284344</data>
+        </node>
+        <node id="27">
+            <data key="name">Beng Seng Ong</data>
+            <data key="metadata">Como Holdings</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-441.29648</data>
+            <data key="y">-324.95566</data>
+        </node>
+        <node id="28">
+            <data key="name">Bernard Sabrier</data>
+            <data key="metadata">Unigestion, S.A.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">146.53432</data>
+            <data key="y">-342.81952</data>
+        </node>
+        <node id="29">
+            <data key="name">Bettina Von Hase</data>
+            <data key="metadata">Nine AM Limited</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-500.37015</data>
+            <data key="y">341.45303</data>
+        </node>
+        <node id="30">
+            <data key="name">Bill Berkman</data>
+            <data key="metadata">The Associated Group</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-291.62274</data>
+            <data key="y">5.5215273</data>
+        </node>
+        <node id="31">
+            <data key="name">Bill Boardman</data>
+            <data key="metadata">BankOne</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">288.79776</data>
+            <data key="y">245.46538</data>
+        </node>
+        <node id="32">
+            <data key="name">Bill Carter</data>
+            <data key="metadata">Price Waterhouse</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">129.1999</data>
+            <data key="y">15.097669</data>
+        </node>
+        <node id="33">
+            <data key="name">Bill Roedy</data>
+            <data key="metadata">MTV Europe</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">205.27663</data>
+            <data key="y">412.8099</data>
+        </node>
+        <node id="34">
+            <data key="name">Blaine Trump</data>
+            <data key="metadata">Trump Management Inc.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">58.30452</data>
+            <data key="y">478.8644</data>
+        </node>
+        <node id="35">
+            <data key="name">Bob Berlin</data>
+            <data key="metadata">Paine Webber</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">209.72585</data>
+            <data key="y">296.87704</data>
+        </node>
+        <node id="36">
+            <data key="name">Bob Crow</data>
+            <data key="metadata">Crow, Crow &amp; Ver</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-161.80006</data>
+            <data key="y">-80.56505</data>
+        </node>
+        <node id="37">
+            <data key="name">Bob Gold</data>
+            <data key="metadata">McDermott, Wohl Emery</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-131.51375</data>
+            <data key="y">-330.28305</data>
+        </node>
+        <node id="38">
+            <data key="name">Bob Goldsandt</data>
+            <data key="metadata">Product Resources</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-297.81558</data>
+            <data key="y">334.61258</data>
+        </node>
+        <node id="39">
+            <data key="name">Bob Mallard</data>
+            <data key="metadata">Lehman Brothers</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-114.058945</data>
+            <data key="y">-448.23434</data>
+        </node>
+        <node id="40">
+            <data key="name">Bob Oatman</data>
+            <data key="metadata">R.L. Oatman &amp; Associates, Inc.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">181.4095</data>
+            <data key="y">210.42674</data>
+        </node>
+        <node id="41">
+            <data key="name">Bob Starodoj</data>
+            <data key="metadata">Mason &amp; Morse Real Estate</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-468.2016</data>
+            <data key="y">106.843</data>
+        </node>
+        <node id="42">
+            <data key="name">Bob Trossle</data>
+            <data key="metadata">Miller &amp; Raved</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-38.309616</data>
+            <data key="y">107.60954</data>
+        </node>
+        <node id="43">
+            <data key="name">Bob Wesselman</data>
+            <data key="metadata">NA Country Club</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">289.98544</data>
+            <data key="y">133.06798</data>
+        </node>
+        <node id="44">
+            <data key="name">Bren Simon</data>
+            <data key="metadata">MBS Associates, LLC</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-139.00917</data>
+            <data key="y">-152.81987</data>
+        </node>
+        <node id="45">
+            <data key="name">Bruce Brickman</data>
+            <data key="metadata">Brickman &amp; Associates</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">127.13466</data>
+            <data key="y">-234.31053</data>
+        </node>
+        <node id="46">
+            <data key="name">Bruce Slovin</data>
+            <data key="metadata">MAC Andrews &amp; Forbes Group Inc.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-439.57327</data>
+            <data key="y">-178.22322</data>
+        </node>
+        <node id="47">
+            <data key="name">Bruce Soll</data>
+            <data key="metadata">The Limited, Inc.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-118.81966</data>
+            <data key="y">274.43063</data>
+        </node>
+        <node id="48">
+            <data key="name">Bryan Ferry</data>
+            <data key="metadata">Studio One</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">214.79433</data>
+            <data key="y">241.60667</data>
+        </node>
+        <node id="49">
+            <data key="name">CC Wang</data>
+            <data key="metadata">U.S. Summit Corp.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">404.37344</data>
+            <data key="y">385.79788</data>
+        </node>
+        <node id="50">
+            <data key="name">Carl Hamman</data>
+            <data key="metadata">Lower Gwynne</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">93.04549</data>
+            <data key="y">187.35753</data>
+        </node>
+        <node id="51">
+            <data key="name">Carlo Mack</data>
+            <data key="metadata">The Mack Company</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">260.06174</data>
+            <data key="y">389.9058</data>
+        </node>
+        <node id="52">
+            <data key="name">Carlos Souza</data>
+            <data key="metadata">Valentino</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-45.206497</data>
+            <data key="y">187.1422</data>
+        </node>
+        <node id="53">
+            <data key="name">Carmine S. Villani</data>
+            <data key="metadata">Milestone Capital LTD</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-31.128248</data>
+            <data key="y">401.72226</data>
+        </node>
+        <node id="54">
+            <data key="name">Carrie Hayes</data>
+            <data key="metadata">Missbrenner</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-44.149338</data>
+            <data key="y">-339.47385</data>
+        </node>
+        <node id="55">
+            <data key="name">Cath Adler</data>
+            <data key="metadata">Fulbright &amp; Jawokski</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">27.466082</data>
+            <data key="y">-461.76138</data>
+        </node>
+        <node id="56">
+            <data key="name">Cath Adler</data>
+            <data key="metadata">Venad Management, Inc.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">493.95944</data>
+            <data key="y">-20.090107</data>
+        </node>
+        <node id="57">
+            <data key="name">Charles Kotick</data>
+            <data key="metadata">Aronsohn &amp; Berman</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">181.84206</data>
+            <data key="y">445.92136</data>
+        </node>
+        <node id="58">
+            <data key="name">Charles Miller</data>
+            <data key="metadata">Miller &amp; Raved</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-444.7049</data>
+            <data key="y">88.01976</data>
+        </node>
+        <node id="59">
+            <data key="name">Charlie Elingworth</data>
+            <data key="metadata">The Basement</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-272.82645</data>
+            <data key="y">-433.09616</data>
+        </node>
+        <node id="60">
+            <data key="name">Charlie Hinson</data>
+            <data key="metadata">Limited Store Planning, Inc.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-197.01814</data>
+            <data key="y">-420.01617</data>
+        </node>
+        <node id="61">
+            <data key="name">Cheryl Gaydas</data>
+            <data key="metadata">Fairchild Corporation</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-72.51143</data>
+            <data key="y">-232.27205</data>
+        </node>
+        <node id="62">
+            <data key="name">Chris "Kip" Forbes</data>
+            <data key="metadata">Forbes Magazine</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-139.22316</data>
+            <data key="y">-90.5526</data>
+        </node>
+        <node id="63">
+            <data key="name">Chris (Kip) Forbes</data>
+            <data key="metadata">Forbes Magazine</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">1.0144818</data>
+            <data key="y">471.0466</data>
+        </node>
+        <node id="64">
+            <data key="name">Christian Gudefin</data>
+            <data key="metadata">Deutsche Bank</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-11.757369</data>
+            <data key="y">-89.59102</data>
+        </node>
+        <node id="65">
+            <data key="name">Christina Greeven</data>
+            <data key="metadata">Manhattan File</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-499.18973</data>
+            <data key="y">228.55083</data>
+        </node>
+        <node id="66">
+            <data key="name">Christina Ong</data>
+            <data key="metadata">Como Holdings</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-381.85873</data>
+            <data key="y">139.93443</data>
+        </node>
+        <node id="67">
+            <data key="name">Christy Hefner</data>
+            <data key="metadata">Playboy Enterprises Inc.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">335.3458</data>
+            <data key="y">-247.51521</data>
+        </node>
+        <node id="68">
+            <data key="name">Cindy Buklarewicz Lopez</data>
+            <data key="metadata">Karin Models</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">32.447647</data>
+            <data key="y">-358.36667</data>
+        </node>
+        <node id="69">
+            <data key="name">Clare Hazell-Iveagh</data>
+            <data key="metadata">Elveden Farms Limited</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">119.97688</data>
+            <data key="y">-216.53386</data>
+        </node>
+        <node id="70">
+            <data key="name">Clive Bannister</data>
+            <data key="metadata">HSBC Investment Bank</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-209.70546</data>
+            <data key="y">-394.24265</data>
+        </node>
+        <node id="71">
+            <data key="name">Coco Brown</data>
+            <data key="metadata">Brown Companies</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">27.802813</data>
+            <data key="y">-186.0718</data>
+        </node>
+        <node id="72">
+            <data key="name">Conrad Black</data>
+            <data key="metadata">Hollinger International</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">389.32388</data>
+            <data key="y">59.00938</data>
+        </node>
+        <node id="73">
+            <data key="name">Craig Hatkoff</data>
+            <data key="metadata">Victor Capital Group</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-182.81624</data>
+            <data key="y">-390.6461</data>
+        </node>
+        <node id="74">
+            <data key="name">Craig Tafoya</data>
+            <data key="metadata">Fraser Yachts</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">41.33571</data>
+            <data key="y">155.62529</data>
+        </node>
+        <node id="75">
+            <data key="name">Craig Tafoya</data>
+            <data key="metadata">Limitless</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">253.23347</data>
+            <data key="y">-326.4283</data>
+        </node>
+        <node id="76">
+            <data key="name">Dan Abraham</data>
+            <data key="metadata">Thompson Medical</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">373.7875</data>
+            <data key="y">-138.97966</data>
+        </node>
+        <node id="77">
+            <data key="name">Daniel Bodini</data>
+            <data key="metadata">American Properties</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-288.10825</data>
+            <data key="y">289.73636</data>
+        </node>
+        <node id="78">
+            <data key="name">Danny  Hillis</data>
+            <data key="metadata">Walt Disney Imagineering</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">330.61264</data>
+            <data key="y">-179.73463</data>
+        </node>
+        <node id="79">
+            <data key="name">David Bonderman</data>
+            <data key="metadata">Texas Pacific Group</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">357.72098</data>
+            <data key="y">-464.78217</data>
+        </node>
+        <node id="80">
+            <data key="name">David Borden</data>
+            <data key="metadata">Victoria International Corp</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-461.0104</data>
+            <data key="y">-14.112048</data>
+        </node>
+        <node id="81">
+            <data key="name">David Grosof</data>
+            <data key="metadata">Central Institute for the Deaf</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-79.64104</data>
+            <data key="y">-283.5258</data>
+        </node>
+        <node id="82">
+            <data key="name">David M. Byrne</data>
+            <data key="metadata">Oatman Associates</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-66.89131</data>
+            <data key="y">142.9669</data>
+        </node>
+        <node id="83">
+            <data key="name">David M. Fromer</data>
+            <data key="metadata">Hacher Group</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-240.39912</data>
+            <data key="y">-0.914447</data>
+        </node>
+        <node id="84">
+            <data key="name">David Rockefeller</data>
+            <data key="metadata">Rockefeller Financial Service</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">481.64554</data>
+            <data key="y">-185.78227</data>
+        </node>
+        <node id="85">
+            <data key="name">David Rockefeller</data>
+            <data key="metadata">Rockefeller Financial Services</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-394.62985</data>
+            <data key="y">-381.5231</data>
+        </node>
+        <node id="86">
+            <data key="name">David Ross</data>
+            <data key="metadata">San Francisco Museum of Modern Art</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">452.56656</data>
+            <data key="y">153.74168</data>
+        </node>
+        <node id="87">
+            <data key="name">David Ross</data>
+            <data key="metadata">Whitney Museum of American Art</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">86.37935</data>
+            <data key="y">-51.538746</data>
+        </node>
+        <node id="88">
+            <data key="name">David Roth</data>
+            <data key="metadata">National Line</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-232.9459</data>
+            <data key="y">345.3381</data>
+        </node>
+        <node id="89">
+            <data key="name">David Wassong</data>
+            <data key="metadata">Soros Private Equity Partners</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-79.93016</data>
+            <data key="y">-122.41658</data>
+        </node>
+        <node id="90">
+            <data key="name">Dayle Davison</data>
+            <data key="metadata">Citibank</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-356.2457</data>
+            <data key="y">-290.24377</data>
+        </node>
+        <node id="91">
+            <data key="name">Debbie Stewart</data>
+            <data key="metadata">Grosvenor Estate</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">426.4581</data>
+            <data key="y">397.34848</data>
+        </node>
+        <node id="92">
+            <data key="name">Dennis Block</data>
+            <data key="metadata">Wil, Gotshal &amp; Manges</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-84.787</data>
+            <data key="y">194.98967</data>
+        </node>
+        <node id="93">
+            <data key="name">Dennis Hersch</data>
+            <data key="metadata">Davis, Polk &amp; Wardwell</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-150.1938</data>
+            <data key="y">41.769756</data>
+        </node>
+        <node id="94">
+            <data key="name">Dimitri Yugoslavie</data>
+            <data key="metadata">Sotheby's</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">110.28175</data>
+            <data key="y">174.69206</data>
+        </node>
+        <node id="95">
+            <data key="name">Dominique Bluhdorn</data>
+            <data key="metadata">Spade &amp; Archer</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-175.42693</data>
+            <data key="y">-165.72786</data>
+        </node>
+        <node id="96">
+            <data key="name">Donald B. Shackelford</data>
+            <data key="metadata">State Savings Bank</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-360.56314</data>
+            <data key="y">512.0208</data>
+        </node>
+        <node id="97">
+            <data key="name">Donald Engel</data>
+            <data key="metadata">Bear Stearns</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">205.891</data>
+            <data key="y">-304.16074</data>
+        </node>
+        <node id="98">
+            <data key="name">Donald Marron</data>
+            <data key="metadata">Paine Webber</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">194.37166</data>
+            <data key="y">-340.30945</data>
+        </node>
+        <node id="99">
+            <data key="name">Donald Trump</data>
+            <data key="metadata">The Trump Organization</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">399.8528</data>
+            <data key="y">-152.60606</data>
+        </node>
+        <node id="100">
+            <data key="name">Doug Band</data>
+            <data key="metadata">Office of William J. Clinton</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-221.11638</data>
+            <data key="y">161.7459</data>
+        </node>
+        <node id="101">
+            <data key="name">Doug Barton</data>
+            <data key="metadata">New Albany Company</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">275.18253</data>
+            <data key="y">-400.24783</data>
+        </node>
+        <node id="102">
+            <data key="name">Dr. David M. Eisenberg</data>
+            <data key="metadata">Harvard Medical School</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-375.00677</data>
+            <data key="y">298.53867</data>
+        </node>
+        <node id="103">
+            <data key="name">Dr. Gerald Edelman</data>
+            <data key="metadata">Neurosciences Research</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-284.59775</data>
+            <data key="y">66.09508</data>
+        </node>
+        <node id="104">
+            <data key="name">Dr. Henry Jarecki</data>
+            <data key="metadata">Falconwood Corporation</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-383.6038</data>
+            <data key="y">-226.37776</data>
+        </node>
+        <node id="105">
+            <data key="name">Dr. Nick Goldberg</data>
+            <data key="metadata">The Brain Institute</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-120.60274</data>
+            <data key="y">-245.24957</data>
+        </node>
+        <node id="106">
+            <data key="name">Early Mack</data>
+            <data key="metadata">The Mack Company</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-259.2369</data>
+            <data key="y">279.7513</data>
+        </node>
+        <node id="107">
+            <data key="name">Eddie Mangope</data>
+            <data key="metadata">Las Arcadas Leopard Park</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">278.31912</data>
+            <data key="y">-295.8176</data>
+        </node>
+        <node id="108">
+            <data key="name">Edgar Bronfman Bronfman Jr.</data>
+            <data key="metadata">Lexa Partners, LLC</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-476.93472</data>
+            <data key="y">500.90237</data>
+        </node>
+        <node id="109">
+            <data key="name">Eduardo Teodorani-Fabbri</data>
+            <data key="metadata">CNH Global N.V.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-151.94258</data>
+            <data key="y">-192.56572</data>
+        </node>
+        <node id="110">
+            <data key="name">Edward Lambert</data>
+            <data key="metadata">ESL Partners</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">354.02133</data>
+            <data key="y">-391.79276</data>
+        </node>
+        <node id="111">
+            <data key="name">Edward S. Gordon</data>
+            <data key="metadata">Edward S. Gordon Company</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">299.04855</data>
+            <data key="y">239.87462</data>
+        </node>
+        <node id="112">
+            <data key="name">Ehud Barak</data>
+            <data key="metadata">Barak &amp; Associates, LLC</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">120.919266</data>
+            <data key="y">-410.0826</data>
+        </node>
+        <node id="113">
+            <data key="name">Elena Hahn</data>
+            <data key="metadata">J.P. Morgan</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">158.9792</data>
+            <data key="y">451.94687</data>
+        </node>
+        <node id="114">
+            <data key="name">Eliot Taymor</data>
+            <data key="metadata">Loh Inc. &amp; Zarathustra Music</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-427.5125</data>
+            <data key="y">-181.00557</data>
+        </node>
+        <node id="115">
+            <data key="name">Elizabeth "Libet" Johnson</data>
+            <data key="metadata">Trump International Hotel</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">88.98207</data>
+            <data key="y">17.724072</data>
+        </node>
+        <node id="116">
+            <data key="name">Elizabeth Tepper</data>
+            <data key="metadata">ABB Service Worldwide</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">405.1483</data>
+            <data key="y">106.64818</data>
+        </node>
+        <node id="117">
+            <data key="name">Ellen Goldberg</data>
+            <data key="metadata">Santa Fe Institute</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">250.20924</data>
+            <data key="y">-259.5772</data>
+        </node>
+        <node id="118">
+            <data key="name">Eric Gertler</data>
+            <data key="metadata">Privista</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">144.90376</data>
+            <data key="y">116.12071</data>
+        </node>
+        <node id="119">
+            <data key="name">Eric Margolis</data>
+            <data key="metadata">Jamieson Laboratories</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-274.79187</data>
+            <data key="y">-192.36888</data>
+        </node>
+        <node id="120">
+            <data key="name">Esperanza Sobrino</data>
+            <data key="metadata">Acquavella Galleries</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-482.7321</data>
+            <data key="y">418.24014</data>
+        </node>
+        <node id="121">
+            <data key="name">Eva Lorenzoti</data>
+            <data key="metadata">Vivre</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">257.3151</data>
+            <data key="y">461.85715</data>
+        </node>
+        <node id="122">
+            <data key="name">Fabrizio Cerina</data>
+            <data key="metadata">Credit des Alpes</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">147.071</data>
+            <data key="y">-341.25305</data>
+        </node>
+        <node id="123">
+            <data key="name">Felicia Taylor</data>
+            <data key="metadata">CNBC</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-138.68123</data>
+            <data key="y">-393.89294</data>
+        </node>
+        <node id="124">
+            <data key="name">Francis Wahl</data>
+            <data key="metadata">Bernheim Haiperian Ming Ducret</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">110.62929</data>
+            <data key="y">277.1185</data>
+        </node>
+        <node id="125">
+            <data key="name">Francois Graff</data>
+            <data key="metadata">Graff</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">179.93587</data>
+            <data key="y">-0.4486572</data>
+        </node>
+        <node id="126">
+            <data key="name">Fred Brooks</data>
+            <data key="metadata">Connecticut Economics Corp</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">74.68422</data>
+            <data key="y">-32.40166</data>
+        </node>
+        <node id="127">
+            <data key="name">Fred Yaffe</data>
+            <data key="metadata">Yaffe &amp; Co.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-186.81926</data>
+            <data key="y">214.94182</data>
+        </node>
+        <node id="128">
+            <data key="name">Frederic Fekkai</data>
+            <data key="metadata">Federic Fekkai Beauty Center</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-500.31857</data>
+            <data key="y">-394.6406</data>
+        </node>
+        <node id="129">
+            <data key="name">Frederic Fekkai</data>
+            <data key="metadata">Frederic Fekkai Beauty Center</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">231.49922</data>
+            <data key="y">327.2916</data>
+        </node>
+        <node id="130">
+            <data key="name">Frederick (Fred) Adler</data>
+            <data key="metadata">Fulbright &amp; Jawokski</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-340.62662</data>
+            <data key="y">-325.79025</data>
+        </node>
+        <node id="131">
+            <data key="name">Frederick Adler</data>
+            <data key="metadata">Venad Management, Inc.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">298.57547</data>
+            <data key="y">382.43253</data>
+        </node>
+        <node id="132">
+            <data key="name">Gary Ginsberg</data>
+            <data key="metadata">News Corp</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">34.39229</data>
+            <data key="y">326.9741</data>
+        </node>
+        <node id="133">
+            <data key="name">Gary Kerney</data>
+            <data key="metadata">Landmark National</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-123.98863</data>
+            <data key="y">54.41679</data>
+        </node>
+        <node id="134">
+            <data key="name">Gayl Kelmenson</data>
+            <data key="metadata">Bozell, Jacobs, Kenyonn, &amp; Eckh..</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-25.643507</data>
+            <data key="y">85.66228</data>
+        </node>
+        <node id="135">
+            <data key="name">Gene Pressman</data>
+            <data key="metadata">Barney's of New York</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">459.61514</data>
+            <data key="y">-457.67056</data>
+        </node>
+        <node id="136">
+            <data key="name">Geoffrey Kent</data>
+            <data key="metadata">Abercrombie &amp; Kent</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">391.23495</data>
+            <data key="y">-154.23842</data>
+        </node>
+        <node id="137">
+            <data key="name">George Bamford</data>
+            <data key="metadata">Daylesford House</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">305.82608</data>
+            <data key="y">-320.06833</data>
+        </node>
+        <node id="138">
+            <data key="name">George Carmody</data>
+            <data key="metadata">Carmody Law Office</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-353.8896</data>
+            <data key="y">287.46652</data>
+        </node>
+        <node id="139">
+            <data key="name">George Delson</data>
+            <data key="metadata">George Delson &amp; Associates</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">46.8412</data>
+            <data key="y">435.6555</data>
+        </node>
+        <node id="140">
+            <data key="name">George Mitchell</data>
+            <data key="metadata">Verner, Liipfert, Bernhard, Mc</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-277.85513</data>
+            <data key="y">16.38673</data>
+        </node>
+        <node id="141">
+            <data key="name">George Pryor</data>
+            <data key="metadata">First Intercontinental Realty</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">364.2985</data>
+            <data key="y">465.82175</data>
+        </node>
+        <node id="142">
+            <data key="name">George Whipple</data>
+            <data key="metadata">Fox</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">238.46577</data>
+            <data key="y">-242.75073</data>
+        </node>
+        <node id="143">
+            <data key="name">Gerald Barton</data>
+            <data key="metadata">New Albany Company</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-106.08943</data>
+            <data key="y">150.55571</data>
+        </node>
+        <node id="144">
+            <data key="name">Gerald Goldsmith</data>
+            <data key="metadata">Palm Beach National Bank</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-147.14555</data>
+            <data key="y">-293.66068</data>
+        </node>
+        <node id="145">
+            <data key="name">Gerald Ronson</data>
+            <data key="metadata">Carrington Chase</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">167.23122</data>
+            <data key="y">-410.27408</data>
+        </node>
+        <node id="146">
+            <data key="name">Gibby Cohen</data>
+            <data key="metadata">Polygym</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">125.53322</data>
+            <data key="y">-288.1008</data>
+        </node>
+        <node id="147">
+            <data key="name">Gigi Mortimer</data>
+            <data key="metadata">Arden Asset Management, Inc.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">61.77742</data>
+            <data key="y">365.3323</data>
+        </node>
+        <node id="148">
+            <data key="name">Glen Dubin</data>
+            <data key="metadata">Dubin &amp; Swieca</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-27.988417</data>
+            <data key="y">296.43118</data>
+        </node>
+        <node id="149">
+            <data key="name">Glenn Dubin</data>
+            <data key="metadata">Dubin &amp; Swiecz</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-72.98265</data>
+            <data key="y">487.12357</data>
+        </node>
+        <node id="150">
+            <data key="name">Gordon Zacks</data>
+            <data key="metadata">R.G. Barry Corp</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">419.86545</data>
+            <data key="y">-339.17093</data>
+        </node>
+        <node id="151">
+            <data key="name">Gregory Hedberg</data>
+            <data key="metadata">Hirschel &amp; Adler Art Gallery</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">281.27475</data>
+            <data key="y">-170.17754</data>
+        </node>
+        <node id="152">
+            <data key="name">Guy J. Louthan</data>
+            <data key="metadata">Highland Films</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-497.51218</data>
+            <data key="y">-282.51343</data>
+        </node>
+        <node id="153">
+            <data key="name">Hamish Bowles</data>
+            <data key="metadata">Vogue</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-266.61188</data>
+            <data key="y">-456.80817</data>
+        </node>
+        <node id="154">
+            <data key="name">Harriett Gaul</data>
+            <data key="metadata">Percy Lodge</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-227.73671</data>
+            <data key="y">-111.99074</data>
+        </node>
+        <node id="155">
+            <data key="name">Harry Nuttall</data>
+            <data key="metadata">Chairman, RNR International Ltd.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-426.9959</data>
+            <data key="y">370.2742</data>
+        </node>
+        <node id="156">
+            <data key="name">Hatti Jagger</data>
+            <data key="metadata">Percy Lodge</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">96.283035</data>
+            <data key="y">-129.11671</data>
+        </node>
+        <node id="157">
+            <data key="name">Heidi Kucker</data>
+            <data key="metadata">Christie's</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">294.67056</data>
+            <data key="y">-455.5105</data>
+        </node>
+        <node id="158">
+            <data key="name">Henry Kravis</data>
+            <data key="metadata">Kohlberg, Kravis &amp; Roberts</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">109.63045</data>
+            <data key="y">-164.57045</data>
+        </node>
+        <node id="159">
+            <data key="name">Henry Rosovsky</data>
+            <data key="metadata">Harvard University</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">173.43782</data>
+            <data key="y">-47.122303</data>
+        </node>
+        <node id="160">
+            <data key="name">Herb Wolman</data>
+            <data key="metadata">Insurance Office Central Ohio</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-55.567703</data>
+            <data key="y">-469.4004</data>
+        </node>
+        <node id="161">
+            <data key="name">Hon. Rupert Fairfax</data>
+            <data key="metadata">The Coach House</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-106.53862</data>
+            <data key="y">-449.37585</data>
+        </node>
+        <node id="162">
+            <data key="name">Horace "Woody" Brock</data>
+            <data key="metadata">Strategic Economic Decisions</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-372.71597</data>
+            <data key="y">-389.35422</data>
+        </node>
+        <node id="163">
+            <data key="name">Howard Gittis</data>
+            <data key="metadata">MacAndrews</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">146.14174</data>
+            <data key="y">-408.89304</data>
+        </node>
+        <node id="164">
+            <data key="name">Howard Glick</data>
+            <data key="metadata">Adam's Bookstore</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-156.67845</data>
+            <data key="y">74.42424</data>
+        </node>
+        <node id="165">
+            <data key="name">Ira C. Magaziner</data>
+            <data key="metadata">SJS Advisors</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">60.624405</data>
+            <data key="y">96.05797</data>
+        </node>
+        <node id="166">
+            <data key="name">Ira Zicherman</data>
+            <data key="metadata">Bear Stearns</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-397.87305</data>
+            <data key="y">91.06694</data>
+        </node>
+        <node id="167">
+            <data key="name">Jack Kessler</data>
+            <data key="metadata">New Albany Company</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">307.02298</data>
+            <data key="y">132.0291</data>
+        </node>
+        <node id="168">
+            <data key="name">Jacobo Gordon</data>
+            <data key="metadata">CG Investments</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-291.18182</data>
+            <data key="y">-358.01535</data>
+        </node>
+        <node id="169">
+            <data key="name">Jacque Robertson</data>
+            <data key="metadata">Cooper Robertson &amp; Partners</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-278.48392</data>
+            <data key="y">-117.7906</data>
+        </node>
+        <node id="170">
+            <data key="name">James Hollond</data>
+            <data key="metadata">European Financial Products Ld</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-156.9117</data>
+            <data key="y">347.63925</data>
+        </node>
+        <node id="171">
+            <data key="name">James S. (Jim) Forsbach</data>
+            <data key="metadata">The Limited, Inc.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">342.51022</data>
+            <data key="y">206.73723</data>
+        </node>
+        <node id="172">
+            <data key="name">James Smith</data>
+            <data key="metadata">Aegis Trust</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">479.62283</data>
+            <data key="y">-432.74884</data>
+        </node>
+        <node id="173">
+            <data key="name">Jane Hatkoff</data>
+            <data key="metadata">Victor Capital Group</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-181.65327</data>
+            <data key="y">370.0062</data>
+        </node>
+        <node id="174">
+            <data key="name">Jane Pickering</data>
+            <data key="metadata">AOL Networks</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-154.76192</data>
+            <data key="y">360.58353</data>
+        </node>
+        <node id="175">
+            <data key="name">Jane Rosenthal</data>
+            <data key="metadata">Tribeca Productions</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">249.57271</data>
+            <data key="y">-119.93718</data>
+        </node>
+        <node id="176">
+            <data key="name">Jason Weinberg</data>
+            <data key="metadata">Untitled Entertainment</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-398.75146</data>
+            <data key="y">183.17162</data>
+        </node>
+        <node id="177">
+            <data key="name">Javier Banon</data>
+            <data key="metadata">IFB International Finance Bank</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-337.41653</data>
+            <data key="y">-66.953445</data>
+        </node>
+        <node id="178">
+            <data key="name">Jean Appelt</data>
+            <data key="metadata">Citibank</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-36.01747</data>
+            <data key="y">249.84203</data>
+        </node>
+        <node id="179">
+            <data key="name">Jean Paul Bjorlin</data>
+            <data key="metadata">Juilliard School</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">476.4832</data>
+            <data key="y">-215.27544</data>
+        </node>
+        <node id="180">
+            <data key="name">Jean-Jacques Moinet</data>
+            <data key="metadata">Nice Helicopters</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-467.96616</data>
+            <data key="y">346.09415</data>
+        </node>
+        <node id="181">
+            <data key="name">Jean-Luc Brunel</data>
+            <data key="metadata">Karin Models</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-478.69965</data>
+            <data key="y">481.5242</data>
+        </node>
+        <node id="182">
+            <data key="name">Jeff Hirsch</data>
+            <data key="metadata">Photo Care</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">175.74617</data>
+            <data key="y">492.89084</data>
+        </node>
+        <node id="183">
+            <data key="name">Jeffrey Cohen</data>
+            <data key="metadata">Wasserstein, Parella &amp; Co. Inc</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">393.23215</data>
+            <data key="y">-224.93098</data>
+        </node>
+        <node id="184">
+            <data key="name">Jeffrey Podolsky</data>
+            <data key="metadata">New York Editor, Tatler</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-37.404526</data>
+            <data key="y">277.63382</data>
+        </node>
+        <node id="185">
+            <data key="name">Jerry Beck</data>
+            <data key="metadata">The Limited</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">191.38295</data>
+            <data key="y">-282.92587</data>
+        </node>
+        <node id="186">
+            <data key="name">Jerry Beck</data>
+            <data key="metadata">The Limited, Inc.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">241.54689</data>
+            <data key="y">-147.42531</data>
+        </node>
+        <node id="187">
+            <data key="name">Jerry McNamara</data>
+            <data key="metadata">Goldman Sachs</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-29.500807</data>
+            <data key="y">385.5602</data>
+        </node>
+        <node id="188">
+            <data key="name">Jerry Merritt</data>
+            <data key="metadata">The Limited, Inc.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-309.87253</data>
+            <data key="y">-428.36087</data>
+        </node>
+        <node id="189">
+            <data key="name">Jes Staley</data>
+            <data key="metadata">JP Morgan</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-434.5068</data>
+            <data key="y">428.6948</data>
+        </node>
+        <node id="190">
+            <data key="name">Jill Harth</data>
+            <data key="metadata">American Dream</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">339.87076</data>
+            <data key="y">-12.380664</data>
+        </node>
+        <node id="191">
+            <data key="name">Jim Wial</data>
+            <data key="metadata">William Morrison Agency</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-203.91234</data>
+            <data key="y">-370.82635</data>
+        </node>
+        <node id="192">
+            <data key="name">Jimmy Cayne</data>
+            <data key="metadata">Bear Stearns</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">338.95267</data>
+            <data key="y">463.9147</data>
+        </node>
+        <node id="193">
+            <data key="name">Joe Hunter</data>
+            <data key="metadata">Ford Models</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">443.7003</data>
+            <data key="y">489.9034</data>
+        </node>
+        <node id="194">
+            <data key="name">Joel Pashcow</data>
+            <data key="metadata">Atlantic Realty Trust</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">485.25174</data>
+            <data key="y">-31.521015</data>
+        </node>
+        <node id="195">
+            <data key="name">Joel Pashcow</data>
+            <data key="metadata">RPS Realty Trust</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-192.27107</data>
+            <data key="y">-79.14821</data>
+        </node>
+        <node id="196">
+            <data key="name">Joey Hunter</data>
+            <data key="metadata">Modelwire</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">368.7327</data>
+            <data key="y">-287.64273</data>
+        </node>
+        <node id="197">
+            <data key="name">John A. Catsimatidis</data>
+            <data key="metadata">Red Apple Group</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">94.68483</data>
+            <data key="y">467.28006</data>
+        </node>
+        <node id="198">
+            <data key="name">John C. Elam</data>
+            <data key="metadata">Vorys, Sater, Seymour &amp; Pease</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">298.96365</data>
+            <data key="y">171.17424</data>
+        </node>
+        <node id="199">
+            <data key="name">John Meade</data>
+            <data key="metadata">O'Connor &amp; Hannan</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">371.16257</data>
+            <data key="y">161.17638</data>
+        </node>
+        <node id="200">
+            <data key="name">John Peters</data>
+            <data key="metadata">Peters Entertainment</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">61.743546</data>
+            <data key="y">-314.8403</data>
+        </node>
+        <node id="201">
+            <data key="name">John Viggiano</data>
+            <data key="metadata">Dignitary Protection</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">320.4219</data>
+            <data key="y">0.55787355</data>
+        </node>
+        <node id="202">
+            <data key="name">Jon Bannenberg</data>
+            <data key="metadata">Jon Bannenberg Limited</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-51.76982</data>
+            <data key="y">271.77676</data>
+        </node>
+        <node id="203">
+            <data key="name">Jonathan D. Farkas</data>
+            <data key="metadata">Live Oak Realty Corp.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-417.6013</data>
+            <data key="y">265.41446</data>
+        </node>
+        <node id="204">
+            <data key="name">Jose Aznar</data>
+            <data key="metadata">S&amp;S Capital</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">430.6215</data>
+            <data key="y">504.74075</data>
+        </node>
+        <node id="205">
+            <data key="name">Judy Price</data>
+            <data key="metadata">Avenue</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">28.248796</data>
+            <data key="y">364.4139</data>
+        </node>
+        <node id="206">
+            <data key="name">Julia Broadhurst</data>
+            <data key="metadata">Speedo</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">320.35922</data>
+            <data key="y">314.19778</data>
+        </node>
+        <node id="207">
+            <data key="name">Julie Taymor</data>
+            <data key="metadata">Loh Inc. &amp; Zarathustra Music</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-76.93141</data>
+            <data key="y">-326.9055</data>
+        </node>
+        <node id="208">
+            <data key="name">Kathryn Scott</data>
+            <data key="metadata">Kathryn Scott Associates</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">237.98683</data>
+            <data key="y">345.0555</data>
+        </node>
+        <node id="209">
+            <data key="name">Katie Ford</data>
+            <data key="metadata">Ford Models</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-435.7745</data>
+            <data key="y">-127.88097</data>
+        </node>
+        <node id="210">
+            <data key="name">Keith Oliver</data>
+            <data key="metadata">Peters &amp; Peters</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-251.79265</data>
+            <data key="y">73.93535</data>
+        </node>
+        <node id="211">
+            <data key="name">Kenneth Gilman</data>
+            <data key="metadata">The Limited, Inc.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-352.22986</data>
+            <data key="y">-376.7319</data>
+        </node>
+        <node id="212">
+            <data key="name">Kenny Lipper</data>
+            <data key="metadata">Lipper &amp; Company</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-430.6483</data>
+            <data key="y">229.94426</data>
+        </node>
+        <node id="213">
+            <data key="name">Kevin Maxwell</data>
+            <data key="metadata">Telemonde, Inc.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">311.69138</data>
+            <data key="y">31.20097</data>
+        </node>
+        <node id="214">
+            <data key="name">Kevin Spacey</data>
+            <data key="metadata">Trigger Street Productions</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-146.61809</data>
+            <data key="y">190.43773</data>
+        </node>
+        <node id="215">
+            <data key="name">Kim Price</data>
+            <data key="metadata">Barrueta</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-467.68616</data>
+            <data key="y">230.614</data>
+        </node>
+        <node id="216">
+            <data key="name">Kristina Kincaid</data>
+            <data key="metadata">Victoria's Secret</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-349.28284</data>
+            <data key="y">-69.825485</data>
+        </node>
+        <node id="217">
+            <data key="name">Larry Coben</data>
+            <data key="metadata">Sunrise Capital Partners</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">308.92728</data>
+            <data key="y">-388.72153</data>
+        </node>
+        <node id="218">
+            <data key="name">Larry Esq. Newman</data>
+            <data key="metadata">Friedman &amp; Kaplan</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">323.58536</data>
+            <data key="y">-209.26112</data>
+        </node>
+        <node id="219">
+            <data key="name">Larry Leeds</data>
+            <data key="metadata">Buckingham Research</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-138.22377</data>
+            <data key="y">-352.45895</data>
+        </node>
+        <node id="220">
+            <data key="name">Larry Schafran</data>
+            <data key="metadata">L.G. Schafran &amp; Partners</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-147.73332</data>
+            <data key="y">-193.16655</data>
+        </node>
+        <node id="221">
+            <data key="name">Larry Tobiason</data>
+            <data key="metadata">Lawrence F. Tobiason Assoc.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-110.1732</data>
+            <data key="y">34.22172</data>
+        </node>
+        <node id="222">
+            <data key="name">Laura Dietrich</data>
+            <data key="metadata">Meridian Emerging Markets, Ltd.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-309.49057</data>
+            <data key="y">-422.97824</data>
+        </node>
+        <node id="223">
+            <data key="name">Laura Yorke</data>
+            <data key="metadata">Golden Books Family Entertainment</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-212.73329</data>
+            <data key="y">-152.55446</data>
+        </node>
+        <node id="224">
+            <data key="name">Lauren Booth</data>
+            <data key="metadata">NetJets</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">69.56258</data>
+            <data key="y">-301.27344</data>
+        </node>
+        <node id="225">
+            <data key="name">Lawrence S. Stroll</data>
+            <data key="metadata">Chairman, AIHL Investment Group</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-398.51517</data>
+            <data key="y">-253.20406</data>
+        </node>
+        <node id="226">
+            <data key="name">Lenny Toboroff</data>
+            <data key="metadata">Riddell</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">424.68472</data>
+            <data key="y">-399.2336</data>
+        </node>
+        <node id="227">
+            <data key="name">Leo-Arthur Kelmenson</data>
+            <data key="metadata">Bozell, Jacobs, Kenyonn, &amp; Eckh..</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">430.31363</data>
+            <data key="y">-185.72029</data>
+        </node>
+        <node id="228">
+            <data key="name">Leon Black</data>
+            <data key="metadata">Apollo Management LP</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-76.349655</data>
+            <data key="y">201.43913</data>
+        </node>
+        <node id="229">
+            <data key="name">Leon Black</data>
+            <data key="metadata">Apollo Management, L.P.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-97.39159</data>
+            <data key="y">485.94388</data>
+        </node>
+        <node id="230">
+            <data key="name">Leonard Ross</data>
+            <data key="metadata">Rossco Holdings Incorporated</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-86.30791</data>
+            <data key="y">196.1386</data>
+        </node>
+        <node id="231">
+            <data key="name">Les Gelb</data>
+            <data key="metadata">Council on Foreign Relations</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">363.77652</data>
+            <data key="y">173.58775</data>
+        </node>
+        <node id="232">
+            <data key="name">Les Wexner</data>
+            <data key="metadata">The Limited, Inc.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">471.4785</data>
+            <data key="y">-64.28389</data>
+        </node>
+        <node id="233">
+            <data key="name">Lewis Ranieri</data>
+            <data key="metadata">Ranieri &amp; Co., Inc.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">396.6567</data>
+            <data key="y">-403.13602</data>
+        </node>
+        <node id="234">
+            <data key="name">Lewis S. Ranieri</data>
+            <data key="metadata">Ranieri &amp; Co., Inc.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">140.14223</data>
+            <data key="y">-204.72441</data>
+        </node>
+        <node id="235">
+            <data key="name">Linda Janklow</data>
+            <data key="metadata">Lincoln Center Theatre</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">348.19077</data>
+            <data key="y">-449.83517</data>
+        </node>
+        <node id="236">
+            <data key="name">Linda Stone</data>
+            <data key="metadata">Microsoft</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">368.0392</data>
+            <data key="y">-347.18228</data>
+        </node>
+        <node id="237">
+            <data key="name">Linda Wachner</data>
+            <data key="metadata">Warnaco Inc.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-396.38364</data>
+            <data key="y">-185.95995</data>
+        </node>
+        <node id="238">
+            <data key="name">Linda Wachner</data>
+            <data key="metadata">Warnaco, Inc.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">125.82918</data>
+            <data key="y">-401.875</data>
+        </node>
+        <node id="239">
+            <data key="name">Linska Cierach</data>
+            <data key="metadata">The Studio</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">452.44992</data>
+            <data key="y">187.4965</data>
+        </node>
+        <node id="240">
+            <data key="name">Liz Hurley</data>
+            <data key="metadata">Simian Films</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-328.36298</data>
+            <data key="y">274.5059</data>
+        </node>
+        <node id="241">
+            <data key="name">Lorenzo Pedrini</data>
+            <data key="metadata">Next Model Agency</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-475.68195</data>
+            <data key="y">165.37877</data>
+        </node>
+        <node id="242">
+            <data key="name">Lorinda Ash</data>
+            <data key="metadata">Gagosian Gallery</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">458.46487</data>
+            <data key="y">319.49326</data>
+        </node>
+        <node id="243">
+            <data key="name">Louis Dubin</data>
+            <data key="metadata">The Athena Group</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-62.26677</data>
+            <data key="y">-385.86636</data>
+        </node>
+        <node id="244">
+            <data key="name">Luca Del Del Bono</data>
+            <data key="metadata">Quintessentially</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-266.30963</data>
+            <data key="y">215.31847</data>
+        </node>
+        <node id="245">
+            <data key="name">Lynn Forester</data>
+            <data key="metadata">Firstmark Holdings</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-498.7988</data>
+            <data key="y">-90.38844</data>
+        </node>
+        <node id="246">
+            <data key="name">Madison Cox</data>
+            <data key="metadata">Madison Cox Design, Inc.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">467.40036</data>
+            <data key="y">485.95944</data>
+        </node>
+        <node id="247">
+            <data key="name">Malcolm Grumbridge</data>
+            <data key="metadata">The Hogarth Group</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-466.41617</data>
+            <data key="y">392.16013</data>
+        </node>
+        <node id="248">
+            <data key="name">Marc Lundberg</data>
+            <data key="metadata">N.A. Property, Inc.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-135.52629</data>
+            <data key="y">-415.21286</data>
+        </node>
+        <node id="249">
+            <data key="name">Marc Puig</data>
+            <data key="metadata">Fashion Di</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">129.43239</data>
+            <data key="y">-332.88324</data>
+        </node>
+        <node id="250">
+            <data key="name">Margaret Hedberg</data>
+            <data key="metadata">Hirschel &amp; Adler Art Gallery</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-135.26009</data>
+            <data key="y">5.3116884</data>
+        </node>
+        <node id="251">
+            <data key="name">Marie Joseph Experton</data>
+            <data key="metadata">Berlioz &amp; Co.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-14.955886</data>
+            <data key="y">232.90855</data>
+        </node>
+        <node id="252">
+            <data key="name">Mario B. Garnero Jr.</data>
+            <data key="metadata">Brasilinvest</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-283.79428</data>
+            <data key="y">117.25603</data>
+        </node>
+        <node id="253">
+            <data key="name">Mario Ganero Sr.</data>
+            <data key="metadata">Brasilinvest</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">222.28413</data>
+            <data key="y">154.31853</data>
+        </node>
+        <node id="254">
+            <data key="name">Mark Booth</data>
+            <data key="metadata">NetJets</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-81.74538</data>
+            <data key="y">-18.838642</data>
+        </node>
+        <node id="255">
+            <data key="name">Mark Epstein</data>
+            <data key="metadata">IZMO Family of Companies, Inc.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-0.24552803</data>
+            <data key="y">15.081189</data>
+        </node>
+        <node id="256">
+            <data key="name">Mark Epstein</data>
+            <data key="metadata">Izmo Family of Companies, Inc.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-425.1104</data>
+            <data key="y">-73.04436</data>
+        </node>
+        <node id="257">
+            <data key="name">Mark Middleton</data>
+            <data key="metadata">The White House</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">84.68013</data>
+            <data key="y">181.8184</data>
+        </node>
+        <node id="258">
+            <data key="name">Mark Packer</data>
+            <data key="metadata">Canastel's</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">472.50156</data>
+            <data key="y">-4.6082945</data>
+        </node>
+        <node id="259">
+            <data key="name">Marshall Rose</data>
+            <data key="metadata">Georgetown Group</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-26.078321</data>
+            <data key="y">490.43173</data>
+        </node>
+        <node id="260">
+            <data key="name">Martin Nowak</data>
+            <data key="metadata">Harvard University</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">2.3125165</data>
+            <data key="y">435.99033</data>
+        </node>
+        <node id="261">
+            <data key="name">Marty Peretz</data>
+            <data key="metadata">The New Republic</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-401.18674</data>
+            <data key="y">-173.58357</data>
+        </node>
+        <node id="262">
+            <data key="name">Marty Raynes</data>
+            <data key="metadata">M.J. Raynes</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">384.55453</data>
+            <data key="y">331.09744</data>
+        </node>
+        <node id="263">
+            <data key="name">Marty Trust</data>
+            <data key="metadata">Mast Industries</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">126.06294</data>
+            <data key="y">-287.83548</data>
+        </node>
+        <node id="264">
+            <data key="name">Marty Trust</data>
+            <data key="metadata">Mast Industries, Inc.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-480.39017</data>
+            <data key="y">72.89415</data>
+        </node>
+        <node id="265">
+            <data key="name">Marvin Minsky</data>
+            <data key="metadata">Massachusetts Institute of Technology</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-124.25737</data>
+            <data key="y">-62.82268</data>
+        </node>
+        <node id="266">
+            <data key="name">Matt A. Gorman</data>
+            <data key="metadata">U.S. Treasury Department</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">190.75331</data>
+            <data key="y">-141.3286</data>
+        </node>
+        <node id="267">
+            <data key="name">Matteo Marzotto</data>
+            <data key="metadata">Valentino</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-82.56743</data>
+            <data key="y">471.2067</data>
+        </node>
+        <node id="268">
+            <data key="name">Meryl Poster</data>
+            <data key="metadata">Miramax Films</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">273.8002</data>
+            <data key="y">-410.58817</data>
+        </node>
+        <node id="269">
+            <data key="name">Mia Samuels</data>
+            <data key="metadata">ABC Prime Time</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">476.87595</data>
+            <data key="y">385.69852</data>
+        </node>
+        <node id="270">
+            <data key="name">Michael Borrico</data>
+            <data key="metadata">Certified Contracting Inc.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">70.87697</data>
+            <data key="y">-442.3063</data>
+        </node>
+        <node id="271">
+            <data key="name">Michael Dennis</data>
+            <data key="metadata">Azure Dev Inc.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-111.963486</data>
+            <data key="y">275.51126</data>
+        </node>
+        <node id="272">
+            <data key="name">Michael Ovitz</data>
+            <data key="metadata">Artist Management Group</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-121.301346</data>
+            <data key="y">93.16124</data>
+        </node>
+        <node id="273">
+            <data key="name">Michael W. Sonnenfeldt</data>
+            <data key="metadata">Emmes &amp; Co., Inc.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">459.24307</data>
+            <data key="y">-279.2639</data>
+        </node>
+        <node id="274">
+            <data key="name">Michel de Yougoslavia</data>
+            <data key="metadata">Sotheby's Int. Realty</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">426.14743</data>
+            <data key="y">-102.71849</data>
+        </node>
+        <node id="275">
+            <data key="name">Mike Cutlip</data>
+            <data key="metadata">Hong Kong Bank ICA Division</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">287.1418</data>
+            <data key="y">-342.45505</data>
+        </node>
+        <node id="276">
+            <data key="name">Mike Moritz</data>
+            <data key="metadata">Baker &amp; Hostetler</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-128.38686</data>
+            <data key="y">143.83348</data>
+        </node>
+        <node id="277">
+            <data key="name">Mike Wallace</data>
+            <data key="metadata">60 Minutes - CBS</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-251.53212</data>
+            <data key="y">137.3449</data>
+        </node>
+        <node id="278">
+            <data key="name">Milly Soames</data>
+            <data key="metadata">Bank Misys</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-362.52945</data>
+            <data key="y">-452.44644</data>
+        </node>
+        <node id="279">
+            <data key="name">Mort Zucherman</data>
+            <data key="metadata">Boston Properties</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">127.18678</data>
+            <data key="y">-154.88057</data>
+        </node>
+        <node id="280">
+            <data key="name">Mort Zuckerman</data>
+            <data key="metadata">Boston Properties</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">477.23074</data>
+            <data key="y">510.58633</data>
+        </node>
+        <node id="281">
+            <data key="name">Murray Gell-Mann</data>
+            <data key="metadata">Santa Fe Institute</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-406.65656</data>
+            <data key="y">-79.31142</data>
+        </node>
+        <node id="282">
+            <data key="name">Nancy Jarecki</data>
+            <data key="metadata">hit the ground running films</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-179.68034</data>
+            <data key="y">144.86711</data>
+        </node>
+        <node id="283">
+            <data key="name">Nathan Myhrvold</data>
+            <data key="metadata">Intellectual Ventures</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-460.0015</data>
+            <data key="y">80.72008</data>
+        </node>
+        <node id="284">
+            <data key="name">Nathan Myhrvold</data>
+            <data key="metadata">Microsoft Corporation</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-379.89963</data>
+            <data key="y">438.2888</data>
+        </node>
+        <node id="285">
+            <data key="name">Nathan Rabbi Laufer</data>
+            <data key="metadata">Wexner Heritage Foundation</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">105.918045</data>
+            <data key="y">-225.32265</data>
+        </node>
+        <node id="286">
+            <data key="name">Nicholas A C Candy</data>
+            <data key="metadata">Candy and Candy Ltd</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-357.33127</data>
+            <data key="y">83.48302</data>
+        </node>
+        <node id="287">
+            <data key="name">Nick Jarecki</data>
+            <data key="metadata">Falconwood Corporation</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-435.77643</data>
+            <data key="y">124.49046</data>
+        </node>
+        <node id="288">
+            <data key="name">Nick Leese</data>
+            <data key="metadata">House of Orient PTE Ltd</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">377.11807</data>
+            <data key="y">-479.72925</data>
+        </node>
+        <node id="289">
+            <data key="name">Nick Pritzker</data>
+            <data key="metadata">Hyatt Development Corp.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">140.99745</data>
+            <data key="y">-304.41245</data>
+        </node>
+        <node id="290">
+            <data key="name">Nick Ribis</data>
+            <data key="metadata">Trump Organization</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-477.61902</data>
+            <data key="y">-443.68475</data>
+        </node>
+        <node id="291">
+            <data key="name">Nicky Barrett</data>
+            <data key="metadata">Ivey, Barnum &amp; O'Mara</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-257.12164</data>
+            <data key="y">-273.97284</data>
+        </node>
+        <node id="292">
+            <data key="name">Nicolas Berggruen</data>
+            <data key="metadata">Alpha Investment Management</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">311.42062</data>
+            <data key="y">-474.7637</data>
+        </node>
+        <node id="293">
+            <data key="name">Nina Pustilnik</data>
+            <data key="metadata">First Boston</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">18.969927</data>
+            <data key="y">300.82114</data>
+        </node>
+        <node id="294">
+            <data key="name">Noreen Roth</data>
+            <data key="metadata">Karbra Co.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-229.54066</data>
+            <data key="y">317.42117</data>
+        </node>
+        <node id="295">
+            <data key="name">Omar</data>
+            <data key="metadata">Atto Travel</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">159.92543</data>
+            <data key="y">100.14226</data>
+        </node>
+        <node id="296">
+            <data key="name">Pandora Maxwell</data>
+            <data key="metadata">Telemonde, Inc.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">379.0942</data>
+            <data key="y">-224.0048</data>
+        </node>
+        <node id="297">
+            <data key="name">Parisi Massimo</data>
+            <data key="metadata">Baltic Models</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-154.13979</data>
+            <data key="y">-227.04008</data>
+        </node>
+        <node id="298">
+            <data key="name">Paul Curran</data>
+            <data key="metadata">Kaye, Scholer</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-503.43488</data>
+            <data key="y">-111.11104</data>
+        </node>
+        <node id="299">
+            <data key="name">Paul Dietrich</data>
+            <data key="metadata">Meridian Emerging Markets, Ltd.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-205.2181</data>
+            <data key="y">-308.2508</data>
+        </node>
+        <node id="300">
+            <data key="name">Paul Duesing</data>
+            <data key="metadata">Leisure &amp; Lifestyle Ventures</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">350.1044</data>
+            <data key="y">-72.330124</data>
+        </node>
+        <node id="301">
+            <data key="name">Paul Hoffman</data>
+            <data key="metadata">Paul Hoffman, P.C.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">434.51907</data>
+            <data key="y">-170.7278</data>
+        </node>
+        <node id="302">
+            <data key="name">Paul Millstein</data>
+            <data key="metadata">Millstein Properties Corp.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">343.2106</data>
+            <data key="y">184.77763</data>
+        </node>
+        <node id="303">
+            <data key="name">Paul Prosperi</data>
+            <data key="metadata">Algoa Deny</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">323.66623</data>
+            <data key="y">-234.97154</data>
+        </node>
+        <node id="304">
+            <data key="name">Paul Taaffe</data>
+            <data key="metadata">Hill &amp; Knowlton</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-65.14638</data>
+            <data key="y">243.03355</data>
+        </node>
+        <node id="305">
+            <data key="name">Paula Heil</data>
+            <data key="metadata">Millennial Arts</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">80.853775</data>
+            <data key="y">376.82675</data>
+        </node>
+        <node id="306">
+            <data key="name">Pedro Diniz</data>
+            <data key="metadata">PPO Sports</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">365.03275</data>
+            <data key="y">-225.23244</data>
+        </node>
+        <node id="307">
+            <data key="name">Peter Thomas Roth</data>
+            <data key="metadata">Karbra Co.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-253.31053</data>
+            <data key="y">-397.97076</data>
+        </node>
+        <node id="308">
+            <data key="name">Philip Levine</data>
+            <data key="metadata">Baron Corporation</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">57.771927</data>
+            <data key="y">-287.3641</data>
+        </node>
+        <node id="309">
+            <data key="name">Philipe Wahl</data>
+            <data key="metadata">DeDem Automatica</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-300.99298</data>
+            <data key="y">-236.62865</data>
+        </node>
+        <node id="310">
+            <data key="name">Placido Arango</data>
+            <data key="metadata">Grupo Sigla</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-380.44693</data>
+            <data key="y">260.1757</data>
+        </node>
+        <node id="311">
+            <data key="name">Pliny Porter</data>
+            <data key="metadata">Fireworks Pictures</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">469.59787</data>
+            <data key="y">345.86362</data>
+        </node>
+        <node id="312">
+            <data key="name">Prince Dimitri of Yugoslavia</data>
+            <data key="metadata">Phillips de Pury &amp; Luxembourg</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-30.651716</data>
+            <data key="y">-382.62717</data>
+        </node>
+        <node id="313">
+            <data key="name">Prince Michel of Yugoslavia</data>
+            <data key="metadata">Access International Advisors</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">69.389175</data>
+            <data key="y">-215.86894</data>
+        </node>
+        <node id="314">
+            <data key="name">R. Boykin Curry</data>
+            <data key="metadata">Eagle Capital Management</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">285.83133</data>
+            <data key="y">484.99332</data>
+        </node>
+        <node id="315">
+            <data key="name">Randy Bowie</data>
+            <data key="metadata">The Limited</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-280.92807</data>
+            <data key="y">-226.35109</data>
+        </node>
+        <node id="316">
+            <data key="name">Raymond McKenzie</data>
+            <data key="metadata">Lazard Frères &amp; Co</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">138.0074</data>
+            <data key="y">381.1561</data>
+        </node>
+        <node id="317">
+            <data key="name">Renee Preisler Barasch</data>
+            <data key="metadata">RPB Design</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">203.4712</data>
+            <data key="y">-145.31578</data>
+        </node>
+        <node id="318">
+            <data key="name">Rhonda King</data>
+            <data key="metadata">Rhonda King Realty</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">377.41794</data>
+            <data key="y">-445.39792</data>
+        </node>
+        <node id="319">
+            <data key="name">Ric Wanetik</data>
+            <data key="metadata">Ric Wanetik &amp; Associates</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">420.4896</data>
+            <data key="y">-465.64487</data>
+        </node>
+        <node id="320">
+            <data key="name">Richard Buckley</data>
+            <data key="metadata">Gucci</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">113.2397</data>
+            <data key="y">-188.6605</data>
+        </node>
+        <node id="321">
+            <data key="name">Richard Snyder</data>
+            <data key="metadata">Golden Books Family Entertainment</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">79.24428</data>
+            <data key="y">10.070325</data>
+        </node>
+        <node id="322">
+            <data key="name">Robert (Boby) A. Kotick</data>
+            <data key="metadata">Activision</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">366.01205</data>
+            <data key="y">-115.17592</data>
+        </node>
+        <node id="323">
+            <data key="name">Robert E. Nederlander</data>
+            <data key="metadata">Nederlander Organ, Inc.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-82.94182</data>
+            <data key="y">-363.2867</data>
+        </node>
+        <node id="324">
+            <data key="name">Robert J. Hurst</data>
+            <data key="metadata">Goldman Sachs</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-198.61058</data>
+            <data key="y">74.557175</data>
+        </node>
+        <node id="325">
+            <data key="name">Robert LoCascio</data>
+            <data key="metadata">CEO, Live Wire</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">251.25148</data>
+            <data key="y">-359.71225</data>
+        </node>
+        <node id="326">
+            <data key="name">Robert Meister</data>
+            <data key="metadata">Aon-Rollins Hudig Hall</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">282.23178</data>
+            <data key="y">-246.03697</data>
+        </node>
+        <node id="327">
+            <data key="name">Robert Morton</data>
+            <data key="metadata">Producer, Letterman</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">159.22322</data>
+            <data key="y">222.34117</data>
+        </node>
+        <node id="328">
+            <data key="name">Robert S. Schwartz</data>
+            <data key="metadata">Schwartz, Kelm, Warren &amp; Rubenstein</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-154.49214</data>
+            <data key="y">5.6316957</data>
+        </node>
+        <node id="329">
+            <data key="name">Robert Trump</data>
+            <data key="metadata">Trump Management Inc.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">89.09883</data>
+            <data key="y">122.33647</data>
+        </node>
+        <node id="330">
+            <data key="name">Robin E. Levy</data>
+            <data key="metadata">Elite Talent</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">109.902054</data>
+            <data key="y">80.492294</data>
+        </node>
+        <node id="331">
+            <data key="name">Robin Leach</data>
+            <data key="metadata">Leach Entertainment Enterprise</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">243.2585</data>
+            <data key="y">-90.75792</data>
+        </node>
+        <node id="332">
+            <data key="name">Robin Metz</data>
+            <data key="metadata">Nomi's</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">50.67787</data>
+            <data key="y">-402.7939</data>
+        </node>
+        <node id="333">
+            <data key="name">Robin Rotherwick</data>
+            <data key="metadata">Orc Software Ltd.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-351.6478</data>
+            <data key="y">-241.03731</data>
+        </node>
+        <node id="334">
+            <data key="name">Ron Altbach</data>
+            <data key="metadata">HKM</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-459.73282</data>
+            <data key="y">399.04617</data>
+        </node>
+        <node id="335">
+            <data key="name">Ron Daniel</data>
+            <data key="metadata">Harvard University, McKinsey &amp; Co Inc.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">427.94492</data>
+            <data key="y">240.83458</data>
+        </node>
+        <node id="336">
+            <data key="name">Ronald Perelman</data>
+            <data key="metadata">Ravion</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">46.215836</data>
+            <data key="y">-232.24184</data>
+        </node>
+        <node id="337">
+            <data key="name">Ronald Perelman</data>
+            <data key="metadata">Revlon</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">427.72446</data>
+            <data key="y">-315.73868</data>
+        </node>
+        <node id="338">
+            <data key="name">Rosa Monckton</data>
+            <data key="metadata">Asprey &amp; Garrard Ltd.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">402.53366</data>
+            <data key="y">257.3705</data>
+        </node>
+        <node id="339">
+            <data key="name">Rosa Monckton</data>
+            <data key="metadata">Tiffany &amp; Co.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">8.244157</data>
+            <data key="y">25.666668</data>
+        </node>
+        <node id="340">
+            <data key="name">Rupert Murdoch</data>
+            <data key="metadata">News Corp</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-373.843</data>
+            <data key="y">-244.34798</data>
+        </node>
+        <node id="341">
+            <data key="name">Rupert Soames</data>
+            <data key="metadata">Bank Misys</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-483.53842</data>
+            <data key="y">-353.7074</data>
+        </node>
+        <node id="342">
+            <data key="name">Samuel Fried</data>
+            <data key="metadata">The Limited, Inc.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">337.15</data>
+            <data key="y">506.8892</data>
+        </node>
+        <node id="343">
+            <data key="name">Sandy Warner</data>
+            <data key="metadata">J.P. Morgan</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-325.1272</data>
+            <data key="y">-397.02628</data>
+        </node>
+        <node id="344">
+            <data key="name">Saul Steinberg</data>
+            <data key="metadata">Reliance Group Holding Inc.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">459.43124</data>
+            <data key="y">-263.1168</data>
+        </node>
+        <node id="345">
+            <data key="name">Sean Lancaster</data>
+            <data key="metadata">Bristol Associates, Inc.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-114.168045</data>
+            <data key="y">-173.131</data>
+        </node>
+        <node id="346">
+            <data key="name">Senator George Mitchell</data>
+            <data key="metadata">Piper, Rudnick</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-471.77048</data>
+            <data key="y">209.54259</data>
+        </node>
+        <node id="347">
+            <data key="name">Senator John Kerry</data>
+            <data key="metadata">Senator</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">238.68373</data>
+            <data key="y">319.23392</data>
+        </node>
+        <node id="348">
+            <data key="name">Senator Ted Kennedy</data>
+            <data key="metadata">Senator of Massachusetts</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">111.134476</data>
+            <data key="y">514.17456</data>
+        </node>
+        <node id="349">
+            <data key="name">Shannon Mclane</data>
+            <data key="metadata">Cose Belle</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-171.37361</data>
+            <data key="y">108.66893</data>
+        </node>
+        <node id="350">
+            <data key="name">Shaunt Hovanian</data>
+            <data key="metadata">Hovanian Group</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-438.47745</data>
+            <data key="y">133.55424</data>
+        </node>
+        <node id="351">
+            <data key="name">Shaunt Hovnanian</data>
+            <data key="metadata">Hovanian Grove</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-151.23878</data>
+            <data key="y">-249.12097</data>
+        </node>
+        <node id="352">
+            <data key="name">Sir David Tang</data>
+            <data key="metadata">DWC Tang Development Ltd</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-433.69675</data>
+            <data key="y">375.0778</data>
+        </node>
+        <node id="353">
+            <data key="name">Sophie Van Hauen</data>
+            <data key="metadata">Charlotte Morgan</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-199.42561</data>
+            <data key="y">449.8336</data>
+        </node>
+        <node id="354">
+            <data key="name">Sophie Van Van Hauen</data>
+            <data key="metadata">Charlotte Morgan</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-275.6559</data>
+            <data key="y">60.78178</data>
+        </node>
+        <node id="355">
+            <data key="name">Stanley Arkin</data>
+            <data key="metadata">Arkin, Schaffer &amp; Kaplan</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">83.135086</data>
+            <data key="y">458.3159</data>
+        </node>
+        <node id="356">
+            <data key="name">Stanley Gold</data>
+            <data key="metadata">Shamrock Holdings, Inc.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-302.40292</data>
+            <data key="y">466.738</data>
+        </node>
+        <node id="357">
+            <data key="name">Stanley Shopkorn</data>
+            <data key="metadata">Ethos Capital</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">167.58333</data>
+            <data key="y">276.20236</data>
+        </node>
+        <node id="358">
+            <data key="name">Stephen Jay Gould</data>
+            <data key="metadata">Museum of Comparative Zoology, Harvard University</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">313.8633</data>
+            <data key="y">378.30905</data>
+        </node>
+        <node id="359">
+            <data key="name">Stephen Morris</data>
+            <data key="metadata">Capital Advisors, Inc.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-458.97885</data>
+            <data key="y">306.41562</data>
+        </node>
+        <node id="360">
+            <data key="name">Steve Cohen</data>
+            <data key="metadata">Gold &amp; Wachtel</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">368.2966</data>
+            <data key="y">284.97708</data>
+        </node>
+        <node id="361">
+            <data key="name">Steve Kosslyn</data>
+            <data key="metadata">Harvard University</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-387.29343</data>
+            <data key="y">51.34428</data>
+        </node>
+        <node id="362">
+            <data key="name">Steve Minick</data>
+            <data key="metadata">The New Albany Company</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-229.83876</data>
+            <data key="y">-323.0654</data>
+        </node>
+        <node id="363">
+            <data key="name">Steve Tuckerman</data>
+            <data key="metadata">Tuckerman Optical Co.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-184.50621</data>
+            <data key="y">-363.3741</data>
+        </node>
+        <node id="364">
+            <data key="name">Susan Hearn</data>
+            <data key="metadata">Matchroom</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">112.022415</data>
+            <data key="y">125.35191</data>
+        </node>
+        <node id="365">
+            <data key="name">Susan Kent, DVM</data>
+            <data key="metadata">Park East Animal Hospital</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">206.74672</data>
+            <data key="y">434.5405</data>
+        </node>
+        <node id="366">
+            <data key="name">Susan Thomases</data>
+            <data key="metadata">Wilkie Farr &amp; Gallagher</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-299.53735</data>
+            <data key="y">329.21396</data>
+        </node>
+        <node id="367">
+            <data key="name">Suzanne Ponsot</data>
+            <data key="metadata">American Friends of Israel</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-24.50334</data>
+            <data key="y">-174.13689</data>
+        </node>
+        <node id="368">
+            <data key="name">Tania Rotherwick</data>
+            <data key="metadata">Orc Software Ltd.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-419.41864</data>
+            <data key="y">-406.15576</data>
+        </node>
+        <node id="369">
+            <data key="name">Ted Arison</data>
+            <data key="metadata">Carnival Cruise Lines</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">396.40067</data>
+            <data key="y">-313.12442</data>
+        </node>
+        <node id="370">
+            <data key="name">Ted Greenberg</data>
+            <data key="metadata">ABD</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">110.94838</data>
+            <data key="y">269.7111</data>
+        </node>
+        <node id="371">
+            <data key="name">Terri Button</data>
+            <data key="metadata">Visa International</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-63.90181</data>
+            <data key="y">17.340832</data>
+        </node>
+        <node id="372">
+            <data key="name">Theresa Roberts</data>
+            <data key="metadata">architect</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">201.34688</data>
+            <data key="y">-475.16208</data>
+        </node>
+        <node id="373">
+            <data key="name">Thomas C. McMillen</data>
+            <data key="metadata">The Risk Group</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">413.85202</data>
+            <data key="y">235.59172</data>
+        </node>
+        <node id="374">
+            <data key="name">Thomas C. McMillen</data>
+            <data key="metadata">United States House of Representatives</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">412.5549</data>
+            <data key="y">450.11545</data>
+        </node>
+        <node id="375">
+            <data key="name">Thomas H. Quinn</data>
+            <data key="metadata">O'Connor &amp; Hannan</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">345.89798</data>
+            <data key="y">58.4904</data>
+        </node>
+        <node id="376">
+            <data key="name">Thomas H. Quinn</data>
+            <data key="metadata">Venable law firm</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-264.4211</data>
+            <data key="y">-95.95976</data>
+        </node>
+        <node id="377">
+            <data key="name">Tiberto Brandolini d'Adda</data>
+            <data key="metadata">Exor Group</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-138.282</data>
+            <data key="y">-443.13535</data>
+        </node>
+        <node id="378">
+            <data key="name">Tiffany Burns</data>
+            <data key="metadata">WVNY TV</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">17.16646</data>
+            <data key="y">-308.11856</data>
+        </node>
+        <node id="379">
+            <data key="name">Tiffany Dubin</data>
+            <data key="metadata">The Athena Group</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-129.5099</data>
+            <data key="y">-68.87019</data>
+        </node>
+        <node id="380">
+            <data key="name">Tim Martin</data>
+            <data key="metadata">Grosvenor Estate</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-320.90994</data>
+            <data key="y">-355.99704</data>
+        </node>
+        <node id="381">
+            <data key="name">Timothy W. Newcombe</data>
+            <data key="metadata">Newcombe Electronic Systems</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">477.25613</data>
+            <data key="y">-212.84474</data>
+        </node>
+        <node id="382">
+            <data key="name">Todd Meister</data>
+            <data key="metadata">The Regency Hotel</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-409.39316</data>
+            <data key="y">-90.95436</data>
+        </node>
+        <node id="383">
+            <data key="name">Tom Barrack</data>
+            <data key="metadata">Colony Capital</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">0.8902752</data>
+            <data key="y">209.03783</data>
+        </node>
+        <node id="384">
+            <data key="name">Tom Ford</data>
+            <data key="metadata">Gucci</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-303.33548</data>
+            <data key="y">309.90018</data>
+        </node>
+        <node id="385">
+            <data key="name">Tony Brand</data>
+            <data key="metadata">Plein Sud</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">329.73758</data>
+            <data key="y">-276.70554</data>
+        </node>
+        <node id="386">
+            <data key="name">Tony Valukas</data>
+            <data key="metadata">Jenner &amp; Block</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">278.83658</data>
+            <data key="y">-76.12123</data>
+        </node>
+        <node id="387">
+            <data key="name">Vera Wang</data>
+            <data key="metadata">Vera Wang Bridal House, Ltd.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-234.1679</data>
+            <data key="y">328.08878</data>
+        </node>
+        <node id="388">
+            <data key="name">Vera Wang Becker</data>
+            <data key="metadata">Vera Wang Bridal House, Ltd.</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-468.36487</data>
+            <data key="y">143.21849</data>
+        </node>
+        <node id="389">
+            <data key="name">Veronique Pittman</data>
+            <data key="metadata">AOL Networks</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-45.10646</data>
+            <data key="y">121.457565</data>
+        </node>
+        <node id="390">
+            <data key="name">Vikram Chatwal</data>
+            <data key="metadata">Hampshire Hotels &amp; Resorts</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">473.76212</data>
+            <data key="y">348.02835</data>
+        </node>
+        <node id="391">
+            <data key="name">Walter Isaacson</data>
+            <data key="metadata">Time Magazine</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-23.160505</data>
+            <data key="y">-295.8951</data>
+        </node>
+        <node id="392">
+            <data key="name">Warren Spector</data>
+            <data key="metadata">Bear Stearns</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">82.025955</data>
+            <data key="y">-18.98412</data>
+        </node>
+        <node id="393">
+            <data key="name">William (Bill) Siegel</data>
+            <data key="metadata">Chris-Craft Industries</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">180.34016</data>
+            <data key="y">455.18326</data>
+        </node>
+        <node id="394">
+            <data key="name">William B. Wachtel</data>
+            <data key="metadata">Gold &amp; Wachtel</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-64.93733</data>
+            <data key="y">251.80809</data>
+        </node>
+        <node id="395">
+            <data key="name">William Geffers</data>
+            <data key="metadata">The Industrial Bank of Japan</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-115.018875</data>
+            <data key="y">-16.41814</data>
+        </node>
+        <node id="396">
+            <data key="name">William Jeffers</data>
+            <data key="metadata">The Industrial Bank of Japan</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-415.33438</data>
+            <data key="y">-81.59386</data>
+        </node>
+        <node id="397">
+            <data key="name">William S. Elkus</data>
+            <data key="metadata">Nathan Todd &amp; Company</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-354.111</data>
+            <data key="y">-457.4049</data>
+        </node>
+        <edge id="90" source="174" target="389">
+            <data key="weight">1.0</data>
+            <data key="source_name">Jane Pickering</data>
+            <data key="target_name">Veronique Pittman</data>
+            <data key="label1">AOL Networks</data>
+            <data key="label2">AOL Networks</data>
+        </edge>
+        <edge id="91" source="19" target="147">
+            <data key="weight">1.0</data>
+            <data key="source_name">Averell Mortimer</data>
+            <data key="target_name">Gigi Mortimer</data>
+            <data key="label1">Arden Asset Management, Inc.</data>
+            <data key="label2">Arden Asset Management, Inc.</data>
+        </edge>
+        <edge id="92" source="278" target="341">
+            <data key="weight">1.0</data>
+            <data key="source_name">Milly Soames</data>
+            <data key="target_name">Rupert Soames</data>
+            <data key="label1">Bank Misys</data>
+            <data key="label2">Bank Misys</data>
+        </edge>
+        <edge id="93" source="1" target="97">
+            <data key="weight">1.0</data>
+            <data key="source_name">Alan (Ace) Greenberg</data>
+            <data key="target_name">Donald Engel</data>
+            <data key="label1">Bear Stearns</data>
+            <data key="label2">Bear Stearns</data>
+        </edge>
+        <edge id="94" source="1" target="166">
+            <data key="weight">1.0</data>
+            <data key="source_name">Alan (Ace) Greenberg</data>
+            <data key="target_name">Ira Zicherman</data>
+            <data key="label1">Bear Stearns</data>
+            <data key="label2">Bear Stearns</data>
+        </edge>
+        <edge id="95" source="1" target="192">
+            <data key="weight">1.0</data>
+            <data key="source_name">Alan (Ace) Greenberg</data>
+            <data key="target_name">Jimmy Cayne</data>
+            <data key="label1">Bear Stearns</data>
+            <data key="label2">Bear Stearns</data>
+        </edge>
+        <edge id="96" source="1" target="392">
+            <data key="weight">1.0</data>
+            <data key="source_name">Alan (Ace) Greenberg</data>
+            <data key="target_name">Warren Spector</data>
+            <data key="label1">Bear Stearns</data>
+            <data key="label2">Bear Stearns</data>
+        </edge>
+        <edge id="97" source="97" target="166">
+            <data key="weight">1.0</data>
+            <data key="source_name">Donald Engel</data>
+            <data key="target_name">Ira Zicherman</data>
+            <data key="label1">Bear Stearns</data>
+            <data key="label2">Bear Stearns</data>
+        </edge>
+        <edge id="98" source="97" target="192">
+            <data key="weight">1.0</data>
+            <data key="source_name">Donald Engel</data>
+            <data key="target_name">Jimmy Cayne</data>
+            <data key="label1">Bear Stearns</data>
+            <data key="label2">Bear Stearns</data>
+        </edge>
+        <edge id="99" source="97" target="392">
+            <data key="weight">1.0</data>
+            <data key="source_name">Donald Engel</data>
+            <data key="target_name">Warren Spector</data>
+            <data key="label1">Bear Stearns</data>
+            <data key="label2">Bear Stearns</data>
+        </edge>
+        <edge id="100" source="166" target="192">
+            <data key="weight">1.0</data>
+            <data key="source_name">Ira Zicherman</data>
+            <data key="target_name">Jimmy Cayne</data>
+            <data key="label1">Bear Stearns</data>
+            <data key="label2">Bear Stearns</data>
+        </edge>
+        <edge id="101" source="166" target="392">
+            <data key="weight">1.0</data>
+            <data key="source_name">Ira Zicherman</data>
+            <data key="target_name">Warren Spector</data>
+            <data key="label1">Bear Stearns</data>
+            <data key="label2">Bear Stearns</data>
+        </edge>
+        <edge id="102" source="192" target="392">
+            <data key="weight">1.0</data>
+            <data key="source_name">Jimmy Cayne</data>
+            <data key="target_name">Warren Spector</data>
+            <data key="label1">Bear Stearns</data>
+            <data key="label2">Bear Stearns</data>
+        </edge>
+        <edge id="103" source="279" target="280">
+            <data key="weight">1.0</data>
+            <data key="source_name">Mort Zucherman</data>
+            <data key="target_name">Mort Zuckerman</data>
+            <data key="label1">Boston Properties</data>
+            <data key="label2">Boston Properties</data>
+        </edge>
+        <edge id="104" source="134" target="227">
+            <data key="weight">1.0</data>
+            <data key="source_name">Gayl Kelmenson</data>
+            <data key="target_name">Leo-Arthur Kelmenson</data>
+            <data key="label1">Bozell, Jacobs, Kenyonn, &amp; Eckh..</data>
+            <data key="label2">Bozell, Jacobs, Kenyonn, &amp; Eckh..</data>
+        </edge>
+        <edge id="105" source="252" target="253">
+            <data key="weight">1.0</data>
+            <data key="source_name">Mario B. Garnero Jr.</data>
+            <data key="target_name">Mario Ganero Sr.</data>
+            <data key="label1">Brasilinvest</data>
+            <data key="label2">Brasilinvest</data>
+        </edge>
+        <edge id="106" source="353" target="354">
+            <data key="weight">1.0</data>
+            <data key="source_name">Sophie Van Hauen</data>
+            <data key="target_name">Sophie Van Van Hauen</data>
+            <data key="label1">Charlotte Morgan</data>
+            <data key="label2">Charlotte Morgan</data>
+        </edge>
+        <edge id="107" source="90" target="178">
+            <data key="weight">1.0</data>
+            <data key="source_name">Dayle Davison</data>
+            <data key="target_name">Jean Appelt</data>
+            <data key="label1">Citibank</data>
+            <data key="label2">Citibank</data>
+        </edge>
+        <edge id="108" source="27" target="66">
+            <data key="weight">1.0</data>
+            <data key="source_name">Beng Seng Ong</data>
+            <data key="target_name">Christina Ong</data>
+            <data key="label1">Como Holdings</data>
+            <data key="label2">Como Holdings</data>
+        </edge>
+        <edge id="109" source="2" target="137">
+            <data key="weight">1.0</data>
+            <data key="source_name">Alice Bamford</data>
+            <data key="target_name">George Bamford</data>
+            <data key="label1">Daylesford House</data>
+            <data key="label2">Daylesford House</data>
+        </edge>
+        <edge id="110" source="25" target="170">
+            <data key="weight">1.0</data>
+            <data key="source_name">Bea Hollond</data>
+            <data key="target_name">James Hollond</data>
+            <data key="label1">European Financial Products Ld</data>
+            <data key="label2">European Financial Products Ld</data>
+        </edge>
+        <edge id="111" source="104" target="287">
+            <data key="weight">1.0</data>
+            <data key="source_name">Dr. Henry Jarecki</data>
+            <data key="target_name">Nick Jarecki</data>
+            <data key="label1">Falconwood Corporation</data>
+            <data key="label2">Falconwood Corporation</data>
+        </edge>
+        <edge id="112" source="62" target="63">
+            <data key="weight">1.0</data>
+            <data key="source_name">Chris "Kip" Forbes</data>
+            <data key="target_name">Chris (Kip) Forbes</data>
+            <data key="label1">Forbes Magazine</data>
+            <data key="label2">Forbes Magazine</data>
+        </edge>
+        <edge id="113" source="193" target="209">
+            <data key="weight">1.0</data>
+            <data key="source_name">Joe Hunter</data>
+            <data key="target_name">Katie Ford</data>
+            <data key="label1">Ford Models</data>
+            <data key="label2">Ford Models</data>
+        </edge>
+        <edge id="114" source="55" target="130">
+            <data key="weight">1.0</data>
+            <data key="source_name">Cath Adler</data>
+            <data key="target_name">Frederick (Fred) Adler</data>
+            <data key="label1">Fulbright &amp; Jawokski</data>
+            <data key="label2">Fulbright &amp; Jawokski</data>
+        </edge>
+        <edge id="115" source="360" target="394">
+            <data key="weight">1.0</data>
+            <data key="source_name">Steve Cohen</data>
+            <data key="target_name">William B. Wachtel</data>
+            <data key="label1">Gold &amp; Wachtel</data>
+            <data key="label2">Gold &amp; Wachtel</data>
+        </edge>
+        <edge id="116" source="223" target="321">
+            <data key="weight">1.0</data>
+            <data key="source_name">Laura Yorke</data>
+            <data key="target_name">Richard Snyder</data>
+            <data key="label1">Golden Books Family Entertainment</data>
+            <data key="label2">Golden Books Family Entertainment</data>
+        </edge>
+        <edge id="117" source="187" target="324">
+            <data key="weight">1.0</data>
+            <data key="source_name">Jerry McNamara</data>
+            <data key="target_name">Robert J. Hurst</data>
+            <data key="label1">Goldman Sachs</data>
+            <data key="label2">Goldman Sachs</data>
+        </edge>
+        <edge id="118" source="91" target="380">
+            <data key="weight">1.0</data>
+            <data key="source_name">Debbie Stewart</data>
+            <data key="target_name">Tim Martin</data>
+            <data key="label1">Grosvenor Estate</data>
+            <data key="label2">Grosvenor Estate</data>
+        </edge>
+        <edge id="119" source="320" target="384">
+            <data key="weight">1.0</data>
+            <data key="source_name">Richard Buckley</data>
+            <data key="target_name">Tom Ford</data>
+            <data key="label1">Gucci</data>
+            <data key="label2">Gucci</data>
+        </edge>
+        <edge id="120" source="159" target="260">
+            <data key="weight">1.0</data>
+            <data key="source_name">Henry Rosovsky</data>
+            <data key="target_name">Martin Nowak</data>
+            <data key="label1">Harvard University</data>
+            <data key="label2">Harvard University</data>
+        </edge>
+        <edge id="121" source="159" target="361">
+            <data key="weight">1.0</data>
+            <data key="source_name">Henry Rosovsky</data>
+            <data key="target_name">Steve Kosslyn</data>
+            <data key="label1">Harvard University</data>
+            <data key="label2">Harvard University</data>
+        </edge>
+        <edge id="122" source="260" target="361">
+            <data key="weight">1.0</data>
+            <data key="source_name">Martin Nowak</data>
+            <data key="target_name">Steve Kosslyn</data>
+            <data key="label1">Harvard University</data>
+            <data key="label2">Harvard University</data>
+        </edge>
+        <edge id="123" source="151" target="250">
+            <data key="weight">1.0</data>
+            <data key="source_name">Gregory Hedberg</data>
+            <data key="target_name">Margaret Hedberg</data>
+            <data key="label1">Hirschel &amp; Adler Art Gallery</data>
+            <data key="label2">Hirschel &amp; Adler Art Gallery</data>
+        </edge>
+        <edge id="124" source="21" target="72">
+            <data key="weight">1.0</data>
+            <data key="source_name">Barbara Black</data>
+            <data key="target_name">Conrad Black</data>
+            <data key="label1">Hollinger International</data>
+            <data key="label2">Hollinger International</data>
+        </edge>
+        <edge id="125" source="113" target="343">
+            <data key="weight">1.0</data>
+            <data key="source_name">Elena Hahn</data>
+            <data key="target_name">Sandy Warner</data>
+            <data key="label1">J.P. Morgan</data>
+            <data key="label2">J.P. Morgan</data>
+        </edge>
+        <edge id="126" source="294" target="307">
+            <data key="weight">1.0</data>
+            <data key="source_name">Noreen Roth</data>
+            <data key="target_name">Peter Thomas Roth</data>
+            <data key="label1">Karbra Co.</data>
+            <data key="label2">Karbra Co.</data>
+        </edge>
+        <edge id="127" source="68" target="181">
+            <data key="weight">1.0</data>
+            <data key="source_name">Cindy Buklarewicz Lopez</data>
+            <data key="target_name">Jean-Luc Brunel</data>
+            <data key="label1">Karin Models</data>
+            <data key="label2">Karin Models</data>
+        </edge>
+        <edge id="128" source="114" target="207">
+            <data key="weight">1.0</data>
+            <data key="source_name">Eliot Taymor</data>
+            <data key="target_name">Julie Taymor</data>
+            <data key="label1">Loh Inc. &amp; Zarathustra Music</data>
+            <data key="label2">Loh Inc. &amp; Zarathustra Music</data>
+        </edge>
+        <edge id="129" source="22" target="364">
+            <data key="weight">1.0</data>
+            <data key="source_name">Barry Hearn</data>
+            <data key="target_name">Susan Hearn</data>
+            <data key="label1">Matchroom</data>
+            <data key="label2">Matchroom</data>
+        </edge>
+        <edge id="130" source="222" target="299">
+            <data key="weight">1.0</data>
+            <data key="source_name">Laura Dietrich</data>
+            <data key="target_name">Paul Dietrich</data>
+            <data key="label1">Meridian Emerging Markets, Ltd.</data>
+            <data key="label2">Meridian Emerging Markets, Ltd.</data>
+        </edge>
+        <edge id="131" source="42" target="58">
+            <data key="weight">1.0</data>
+            <data key="source_name">Bob Trossle</data>
+            <data key="target_name">Charles Miller</data>
+            <data key="label1">Miller &amp; Raved</data>
+            <data key="label2">Miller &amp; Raved</data>
+        </edge>
+        <edge id="132" source="224" target="254">
+            <data key="weight">1.0</data>
+            <data key="source_name">Lauren Booth</data>
+            <data key="target_name">Mark Booth</data>
+            <data key="label1">NetJets</data>
+            <data key="label2">NetJets</data>
+        </edge>
+        <edge id="133" source="101" target="143">
+            <data key="weight">1.0</data>
+            <data key="source_name">Doug Barton</data>
+            <data key="target_name">Gerald Barton</data>
+            <data key="label1">New Albany Company</data>
+            <data key="label2">New Albany Company</data>
+        </edge>
+        <edge id="134" source="101" target="167">
+            <data key="weight">1.0</data>
+            <data key="source_name">Doug Barton</data>
+            <data key="target_name">Jack Kessler</data>
+            <data key="label1">New Albany Company</data>
+            <data key="label2">New Albany Company</data>
+        </edge>
+        <edge id="135" source="143" target="167">
+            <data key="weight">1.0</data>
+            <data key="source_name">Gerald Barton</data>
+            <data key="target_name">Jack Kessler</data>
+            <data key="label1">New Albany Company</data>
+            <data key="label2">New Albany Company</data>
+        </edge>
+        <edge id="136" source="132" target="340">
+            <data key="weight">1.0</data>
+            <data key="source_name">Gary Ginsberg</data>
+            <data key="target_name">Rupert Murdoch</data>
+            <data key="label1">News Corp</data>
+            <data key="label2">News Corp</data>
+        </edge>
+        <edge id="137" source="199" target="375">
+            <data key="weight">1.0</data>
+            <data key="source_name">John Meade</data>
+            <data key="target_name">Thomas H. Quinn</data>
+            <data key="label1">O'Connor &amp; Hannan</data>
+            <data key="label2">O'Connor &amp; Hannan</data>
+        </edge>
+        <edge id="138" source="333" target="368">
+            <data key="weight">1.0</data>
+            <data key="source_name">Robin Rotherwick</data>
+            <data key="target_name">Tania Rotherwick</data>
+            <data key="label1">Orc Software Ltd.</data>
+            <data key="label2">Orc Software Ltd.</data>
+        </edge>
+        <edge id="139" source="35" target="98">
+            <data key="weight">1.0</data>
+            <data key="source_name">Bob Berlin</data>
+            <data key="target_name">Donald Marron</data>
+            <data key="label1">Paine Webber</data>
+            <data key="label2">Paine Webber</data>
+        </edge>
+        <edge id="140" source="154" target="156">
+            <data key="weight">1.0</data>
+            <data key="source_name">Harriett Gaul</data>
+            <data key="target_name">Hatti Jagger</data>
+            <data key="label1">Percy Lodge</data>
+            <data key="label2">Percy Lodge</data>
+        </edge>
+        <edge id="141" source="26" target="244">
+            <data key="weight">1.0</data>
+            <data key="source_name">Ben Elliot</data>
+            <data key="target_name">Luca Del Del Bono</data>
+            <data key="label1">Quintessentially</data>
+            <data key="label2">Quintessentially</data>
+        </edge>
+        <edge id="142" source="233" target="234">
+            <data key="weight">1.0</data>
+            <data key="source_name">Lewis Ranieri</data>
+            <data key="target_name">Lewis S. Ranieri</data>
+            <data key="label1">Ranieri &amp; Co., Inc.</data>
+            <data key="label2">Ranieri &amp; Co., Inc.</data>
+        </edge>
+        <edge id="143" source="13" target="17">
+            <data key="weight">1.0</data>
+            <data key="source_name">Andrew Tish</data>
+            <data key="target_name">Anne Tish</data>
+            <data key="label1">Regency Hotel</data>
+            <data key="label2">Regency Hotel</data>
+        </edge>
+        <edge id="144" source="117" target="281">
+            <data key="weight">1.0</data>
+            <data key="source_name">Ellen Goldberg</data>
+            <data key="target_name">Murray Gell-Mann</data>
+            <data key="label1">Santa Fe Institute</data>
+            <data key="label2">Santa Fe Institute</data>
+        </edge>
+        <edge id="145" source="213" target="296">
+            <data key="weight">1.0</data>
+            <data key="source_name">Kevin Maxwell</data>
+            <data key="target_name">Pandora Maxwell</data>
+            <data key="label1">Telemonde, Inc.</data>
+            <data key="label2">Telemonde, Inc.</data>
+        </edge>
+        <edge id="146" source="243" target="379">
+            <data key="weight">1.0</data>
+            <data key="source_name">Louis Dubin</data>
+            <data key="target_name">Tiffany Dubin</data>
+            <data key="label1">The Athena Group</data>
+            <data key="label2">The Athena Group</data>
+        </edge>
+        <edge id="147" source="5" target="59">
+            <data key="weight">1.0</data>
+            <data key="source_name">Amanda Elingworth</data>
+            <data key="target_name">Charlie Elingworth</data>
+            <data key="label1">The Basement</data>
+            <data key="label2">The Basement</data>
+        </edge>
+        <edge id="148" source="395" target="396">
+            <data key="weight">1.0</data>
+            <data key="source_name">William Geffers</data>
+            <data key="target_name">William Jeffers</data>
+            <data key="label1">The Industrial Bank of Japan</data>
+            <data key="label2">The Industrial Bank of Japan</data>
+        </edge>
+        <edge id="149" source="185" target="315">
+            <data key="weight">1.0</data>
+            <data key="source_name">Jerry Beck</data>
+            <data key="target_name">Randy Bowie</data>
+            <data key="label1">The Limited</data>
+            <data key="label2">The Limited</data>
+        </edge>
+        <edge id="150" source="47" target="171">
+            <data key="weight">1.0</data>
+            <data key="source_name">Bruce Soll</data>
+            <data key="target_name">James S. (Jim) Forsbach</data>
+            <data key="label1">The Limited, Inc.</data>
+            <data key="label2">The Limited, Inc.</data>
+        </edge>
+        <edge id="151" source="47" target="186">
+            <data key="weight">1.0</data>
+            <data key="source_name">Bruce Soll</data>
+            <data key="target_name">Jerry Beck</data>
+            <data key="label1">The Limited, Inc.</data>
+            <data key="label2">The Limited, Inc.</data>
+        </edge>
+        <edge id="152" source="47" target="188">
+            <data key="weight">1.0</data>
+            <data key="source_name">Bruce Soll</data>
+            <data key="target_name">Jerry Merritt</data>
+            <data key="label1">The Limited, Inc.</data>
+            <data key="label2">The Limited, Inc.</data>
+        </edge>
+        <edge id="153" source="47" target="211">
+            <data key="weight">1.0</data>
+            <data key="source_name">Bruce Soll</data>
+            <data key="target_name">Kenneth Gilman</data>
+            <data key="label1">The Limited, Inc.</data>
+            <data key="label2">The Limited, Inc.</data>
+        </edge>
+        <edge id="154" source="47" target="232">
+            <data key="weight">1.0</data>
+            <data key="source_name">Bruce Soll</data>
+            <data key="target_name">Les Wexner</data>
+            <data key="label1">The Limited, Inc.</data>
+            <data key="label2">The Limited, Inc.</data>
+        </edge>
+        <edge id="155" source="47" target="342">
+            <data key="weight">1.0</data>
+            <data key="source_name">Bruce Soll</data>
+            <data key="target_name">Samuel Fried</data>
+            <data key="label1">The Limited, Inc.</data>
+            <data key="label2">The Limited, Inc.</data>
+        </edge>
+        <edge id="156" source="171" target="186">
+            <data key="weight">1.0</data>
+            <data key="source_name">James S. (Jim) Forsbach</data>
+            <data key="target_name">Jerry Beck</data>
+            <data key="label1">The Limited, Inc.</data>
+            <data key="label2">The Limited, Inc.</data>
+        </edge>
+        <edge id="157" source="171" target="188">
+            <data key="weight">1.0</data>
+            <data key="source_name">James S. (Jim) Forsbach</data>
+            <data key="target_name">Jerry Merritt</data>
+            <data key="label1">The Limited, Inc.</data>
+            <data key="label2">The Limited, Inc.</data>
+        </edge>
+        <edge id="158" source="171" target="211">
+            <data key="weight">1.0</data>
+            <data key="source_name">James S. (Jim) Forsbach</data>
+            <data key="target_name">Kenneth Gilman</data>
+            <data key="label1">The Limited, Inc.</data>
+            <data key="label2">The Limited, Inc.</data>
+        </edge>
+        <edge id="159" source="171" target="232">
+            <data key="weight">1.0</data>
+            <data key="source_name">James S. (Jim) Forsbach</data>
+            <data key="target_name">Les Wexner</data>
+            <data key="label1">The Limited, Inc.</data>
+            <data key="label2">The Limited, Inc.</data>
+        </edge>
+        <edge id="160" source="171" target="342">
+            <data key="weight">1.0</data>
+            <data key="source_name">James S. (Jim) Forsbach</data>
+            <data key="target_name">Samuel Fried</data>
+            <data key="label1">The Limited, Inc.</data>
+            <data key="label2">The Limited, Inc.</data>
+        </edge>
+        <edge id="161" source="186" target="188">
+            <data key="weight">1.0</data>
+            <data key="source_name">Jerry Beck</data>
+            <data key="target_name">Jerry Merritt</data>
+            <data key="label1">The Limited, Inc.</data>
+            <data key="label2">The Limited, Inc.</data>
+        </edge>
+        <edge id="162" source="186" target="211">
+            <data key="weight">1.0</data>
+            <data key="source_name">Jerry Beck</data>
+            <data key="target_name">Kenneth Gilman</data>
+            <data key="label1">The Limited, Inc.</data>
+            <data key="label2">The Limited, Inc.</data>
+        </edge>
+        <edge id="163" source="186" target="232">
+            <data key="weight">1.0</data>
+            <data key="source_name">Jerry Beck</data>
+            <data key="target_name">Les Wexner</data>
+            <data key="label1">The Limited, Inc.</data>
+            <data key="label2">The Limited, Inc.</data>
+        </edge>
+        <edge id="164" source="186" target="342">
+            <data key="weight">1.0</data>
+            <data key="source_name">Jerry Beck</data>
+            <data key="target_name">Samuel Fried</data>
+            <data key="label1">The Limited, Inc.</data>
+            <data key="label2">The Limited, Inc.</data>
+        </edge>
+        <edge id="165" source="188" target="211">
+            <data key="weight">1.0</data>
+            <data key="source_name">Jerry Merritt</data>
+            <data key="target_name">Kenneth Gilman</data>
+            <data key="label1">The Limited, Inc.</data>
+            <data key="label2">The Limited, Inc.</data>
+        </edge>
+        <edge id="166" source="188" target="232">
+            <data key="weight">1.0</data>
+            <data key="source_name">Jerry Merritt</data>
+            <data key="target_name">Les Wexner</data>
+            <data key="label1">The Limited, Inc.</data>
+            <data key="label2">The Limited, Inc.</data>
+        </edge>
+        <edge id="167" source="188" target="342">
+            <data key="weight">1.0</data>
+            <data key="source_name">Jerry Merritt</data>
+            <data key="target_name">Samuel Fried</data>
+            <data key="label1">The Limited, Inc.</data>
+            <data key="label2">The Limited, Inc.</data>
+        </edge>
+        <edge id="168" source="211" target="232">
+            <data key="weight">1.0</data>
+            <data key="source_name">Kenneth Gilman</data>
+            <data key="target_name">Les Wexner</data>
+            <data key="label1">The Limited, Inc.</data>
+            <data key="label2">The Limited, Inc.</data>
+        </edge>
+        <edge id="169" source="211" target="342">
+            <data key="weight">1.0</data>
+            <data key="source_name">Kenneth Gilman</data>
+            <data key="target_name">Samuel Fried</data>
+            <data key="label1">The Limited, Inc.</data>
+            <data key="label2">The Limited, Inc.</data>
+        </edge>
+        <edge id="170" source="232" target="342">
+            <data key="weight">1.0</data>
+            <data key="source_name">Les Wexner</data>
+            <data key="target_name">Samuel Fried</data>
+            <data key="label1">The Limited, Inc.</data>
+            <data key="label2">The Limited, Inc.</data>
+        </edge>
+        <edge id="171" source="51" target="106">
+            <data key="weight">1.0</data>
+            <data key="source_name">Carlo Mack</data>
+            <data key="target_name">Early Mack</data>
+            <data key="label1">The Mack Company</data>
+            <data key="label2">The Mack Company</data>
+        </edge>
+        <edge id="172" source="8" target="14">
+            <data key="weight">1.0</data>
+            <data key="source_name">Andre Balazs</data>
+            <data key="target_name">André Balazs</data>
+            <data key="label1">The Mercer</data>
+            <data key="label2">The Mercer</data>
+        </edge>
+        <edge id="173" source="16" target="257">
+            <data key="weight">1.0</data>
+            <data key="source_name">Ann Stock</data>
+            <data key="target_name">Mark Middleton</data>
+            <data key="label1">The White House</data>
+            <data key="label2">The White House</data>
+        </edge>
+        <edge id="174" source="34" target="329">
+            <data key="weight">1.0</data>
+            <data key="source_name">Blaine Trump</data>
+            <data key="target_name">Robert Trump</data>
+            <data key="label1">Trump Management Inc.</data>
+            <data key="label2">Trump Management Inc.</data>
+        </edge>
+        <edge id="175" source="52" target="267">
+            <data key="weight">1.0</data>
+            <data key="source_name">Carlos Souza</data>
+            <data key="target_name">Matteo Marzotto</data>
+            <data key="label1">Valentino</data>
+            <data key="label2">Valentino</data>
+        </edge>
+        <edge id="176" source="56" target="131">
+            <data key="weight">1.0</data>
+            <data key="source_name">Cath Adler</data>
+            <data key="target_name">Frederick Adler</data>
+            <data key="label1">Venad Management, Inc.</data>
+            <data key="label2">Venad Management, Inc.</data>
+        </edge>
+        <edge id="177" source="387" target="388">
+            <data key="weight">1.0</data>
+            <data key="source_name">Vera Wang</data>
+            <data key="target_name">Vera Wang Becker</data>
+            <data key="label1">Vera Wang Bridal House, Ltd.</data>
+            <data key="label2">Vera Wang Bridal House, Ltd.</data>
+        </edge>
+        <edge id="178" source="73" target="173">
+            <data key="weight">1.0</data>
+            <data key="source_name">Craig Hatkoff</data>
+            <data key="target_name">Jane Hatkoff</data>
+            <data key="label1">Victor Capital Group</data>
+            <data key="label2">Victor Capital Group</data>
+        </edge>
+        <edge id="179" source="11" target="282">
+            <data key="weight">1.0</data>
+            <data key="source_name">Andrew Jarecki</data>
+            <data key="target_name">Nancy Jarecki</data>
+            <data key="label1">hit the ground running films</data>
+            <data key="label2">hit the ground running films</data>
+        </edge>
+    </graph>
+</graphml>
